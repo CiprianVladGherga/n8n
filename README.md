@@ -2,7 +2,7 @@
 
 Welcome to the **n8n Workflows Catalog**, a comprehensive list of automation workflows created using [n8n](https://n8n.io), the powerful fair-code workflow automation tool. This README contains **all known titles** compiled from multiple sources, showcasing a vast collection of unique, creative, and useful automations.
 
-> **Credits**: This list was compiled and maintained by **Vlad C. Gherga** from **ThinkAI**.
+> **Credits**: All This workflows are created, compiled and maintained by **Vlad C. Gherga** from **ThinkAI**.
 
 ---
 
