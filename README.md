@@ -1,2331 +1,1189 @@
- 6_ETL_pipeline
-
- 7_Coffee_Bot_(Mattermost)
-
- 7_Daily_Language_Learning
-
- 7_Publish_post_to_a_publication
-
- 7_YouTube_to_Raindrop
-
- 8_Get_only_new_RSS_with_Photo
-
- 8_Sample_Spotify
-
- 8_workflow_8
-
- 9_Coffee_Bot_(Matrix)
-
- 11_Plex_Automatic_Throttler
-
- 11_What_To_Eat
-
- 11_workflow_11
-
- 12_Create_Onfleet_tasks_from_Spreadsheets
-
- 12_Find_a_New_Book
-
- 13_Creating_an_Onfleet_Task_for_a_new_Shopify_Fulfillment
-
- 13_Mattermost_Webhook
-
- 13_Receive_updates_when_a_form_is_submitted_in_Mautic,_and_send_a_confirmation_SMS
-
- 13_workflow_13
-
- 14_Activity_Encouragement
-
- 14_Add_a_subscriber_to_a_list_and_create_and_send_a_campaign
-
- 14_extract_swifts
-
- 14_Onfleet_Driver_signup_message_in_Slack
-
- 14_Update_Crypto_Values
-
- 15_Bubble_Data_Access
-
- 15_Tools___Backup_Gitlab
-
- 16_User_Request_Management
-
- 18_Gender_Inclusive_Language
-
- 19_Snowflake_CSV
-
- 20_Create,_update_and_get_a_contact_in_Google_Contacts
-
- 21_Upload_video,_create_playlist_and_add_video_to_playlist
-
- 23_Zendesk-to-slack
-
- 25_Add_subscriber_to_form,_create_tag_and_subscriber_to_the_tag
-
- 27_Create_a_release_and_get_all_releases
-
- 27_N8N_Español_-_BOT
-
- 27_workflow_27
-
- 28_Receive_updates_when_a_subscriber_is_added_through_a_form_in_ConvertKit
-
- 29_N8N_Español_-_Ejemplos
-
- 29_Receive_updates_when_a_subscriber_unsubscribes_in_Customer.io
-
- 29_workflow_29
-
- 30_N8N_Español_-_NocodeBot
-
- 30_Receive_updates_when_a_subscriber_is_added_to_a_group_and_strore_the_information_in_Airtable
-
- 32_Create_a_customer_and_add_them_to_a_segment_in_Customer.io
-
- 33_n8n_check
-
- 33_Postgres_Data_Ingestion
-
- 33_Receive_updates_for_support_in_Zendesk
-
- 34_Monitoring_and_alerting
-
- 34_Receive_updates_when_a_sale_is_made_in_Gumroad
-
- 39_PostgreSQL_export_to_CSV
-
- 42_Receive_updates_when_a_form_submission_occurs_in_your_Webflow_website
-
- 46_Cocktail_Recipe_Sharing
-
- 46_Receive_updates_when_a_billing_plan_is_activated_in_PayPal
-
- 47_Receive_updates_when_an_event_occurs_in_Asana
-
- 48_Receive_updates_when_an_email_is_bounced_or_opened
-
- 48_Workflow_management
-
- 51_Receive_messages_for_a_MQTT_queue
-
- 52_Trigger_a_build_using_the_TravisCI_node
-
- 54_CFP_Selection_1
-
- 54_Create_a_coupon_on_Paddle
-
- 55_CFP_Selection_2
-
- 55_Convert_the_JSON_data_received_from_the_CocktailDB_API_in_XML
-
- 55_Expense_Tracker_App
-
- 56_Send_an_SMS_when_a_workflow_fails
-
- 57_Send_a_cocktail_recipe_every_day_via_a_Telegram
-
- 58_Receive_updates_from_Telegram_and_send_an_image_of_a_cocktail
-
- 58_Turn_on_a_light_and_set_its_brightness
-
- 59_Send_an_SMS_using_the_Mocean_node
-
- 60_Create_a_post_and_update_the_post_in_WordPress
-
- 60_n8n_mysql_purge_history_greater_than_10_days
-
- 61_Receive_updates_when_a_customer_is_created_in_HelpScout
-
- 63_Receive_updates_when_a_new_list_is_created_in_Affinity
-
- 64_Upload_a_file_and_get_a_list_of_all_the_files_in_a_bucket
-
- 65_Get_Product_Feedback
-
- 65_Two_Way_Sync_Pipedrive_and_MySQL
-
- 69_Create,_update,_and_get_an_issue_on_Taiga
-
- 69_Creating_your_first_workflow
-
- 70_Receive_updates_when_an_event_occurs_in_Taiga
-
- 76_Create_a_project,_tag,_and_time_entry,_and_update_the_time_entry_in_Clockify
-
- 77_Extract_information_from_an_image_of_a_receipt
-
- 78_Receive_updates_when_a_form_is_submitted_in_Wufoo
-
- 79_Get_the_price_of_BTC_in_EUR_and_send_an_SMS_when_the_price_is_larger_than_EUR_9000
-
- 80_New_WooCommerce_product_to_Slack
-
- 81_Execute_a_command_that_gives_the_hard_disk_memory_used_on_the_host_machine
-
- 81_New_WooCommerce_order_to_Slack
-
- 81aN6oJGMho5kCvQ_OpenAI_ImageGen1_Template
-
- 82_Create_a_new_list,_add_a_new_contact_to_the_list,_update_the_contact,_and_get_all_contacts_in_the_list
-
- 82_New_WooCommerce_refund_to_Slack
-
- 82_Send_daily_weather_updates_via_a_push_notification_using_the_Pushcut_node
-
- 83_Create_a_room,_invite_members_from_a_different_room,_and_send_a_message_in_the_room_we_created
-
- 83_Creating_a_meeting_with_the_Zoom_node
-
- 83_New_WooCommerce_Customer_to_Mautic
-
- 84_Get_a_pipeline_in_CircleCI
-
- 84_Send_daily_weather_updates_to_a_phone_number_using_the_Vonage_node
-
- 85_New_WooCommerce_Product_to_Twitter_and_Telegram
-
- 85_Sending_an_SMS_with_MessageBird
-
- 86_Check_for_valid_Mautic_contact_email
-
- 87_Create_a_new_issue_in_Jira
-
- 88_Check_for_valid_Hubspot_contact_email
-
- 88_Get_the_current_weather_data_for_a_city
-
- 89_Create_a_new_card_in_Trello
-
- 89_Post_RSS_feed_items_from_yesterday_to_Slack
-
- 90_Extract_expenses_from_emails_and_add_to_Google_Sheet
-
- 90_Post_a_message_to_a_channel_in_RocketChat
-
- 91_Create_a_new_user_in_Intercom
-
- 91_New_invoice_email_notification
-
- 91_Send_daily_weather_updates_via_a_push_notification
-
- 92_Send_an_SMS_to_a_number_whenever_you_go_out
-
- 92_Sending_an_SMS_using_sms77
-
- 92_Translate_text_from_English_to_German
-
- 93_Create,_update,_and_get_activity_in_Strava
-
- 95_Create_an_organization_in_Affinity
-
- 95_Receive_updates_when_a_new_activity_gets_created_and_tweet_about_it
-
- 95_Scrape_Twitter_for_mentions_of_company
-
- 96_Create,_update_and_get_a_subscriber_using_the_MailerLite_node
-
- 96_Create_a_new_contact_in_Agile_CRM
-
- 98_Create_a_new_task_in_Asana
-
- 98_Send_updates_about_the_position_of_the_ISS_every_minute_to_a_topic_in_Kafka
-
- 99_Execute_an_SQL_query_in_Microsoft_SQL
-
- 100_Create_a_new_task_in_Todoist
-
- 101_On_new_Stripe_Invoice_Payment_update_Hubspot_and_notify_the_team_in_Slack
-
- 102_Insert_data_into_a_new_row_for_a_table_in_Coda
-
- 102_Send_updates_about_the_position_of_the_ISS_every_minute_to_a_topic_in_ActiveMQ
-
- 103_Create_a_new_customer_in_Chargebee
-
- 103_verify_email
-
- 104_location_by_ip
-
- 104_Look_up_a_person_using_their_email_in_Clearbit
-
- 105_Create_a_new_member,_update_the_information_of_the_member,_create_a_note_and_a_post_for_the_member_in_Orbit
-
- 105_Create_a_task_in_ClickUp
-
- 105_screenshot
-
- 107_Get_a_volume_and_add_it_to_your_bookshelf
-
- 108_Receive_updates_for_events_in_Chargebee
-
- 110_Get_all_the_stories_starting_with_`release`_and_publish_them
-
- 110_Get_SSL_Certificate
-
- 110_Receive_updates_for_events_in_ClickUp
-
- 111_Standup_Bot_-_Initialize
-
- 112_Get_Company_by_Name
-
- 112_Receive_updates_when_a_new_account_is_added_by_an_admin_in_ActiveCampaign
-
- 112_Standup_Bot_-_Read_Config
-
- 113_Create_an_deal_in_Pipedrive
-
- 113_Get_DNS_entries
-
- 113_Standup_Bot_-_Override_Config
-
- 114_Send_daily_weather_updates_via_a_message_in_Line
-
- 114_Standup_Bot_-_Worker
-
- 114_Verify_phone_numbers
-
- 115_Archive_empty_pages_in_Notion_Database
-
- 115_Receive_updates_for_all_changes_in_Pipedrive
-
- 115_Send_daily_weather_updates_via_a_message_using_the_Gotify_node
-
- 116_Get_all_the_contacts_from_GetResponse_and_update_them
-
- 117_Receive_updates_for_changes_in_the_specified_list_in_Trello
-
- 117_Syncro_Alert_to_OpsGenie
-
- 118_Google_Calendar_to_Slack_Status_&_Philips_Hue
-
- 119_Create,_update,_and_get_an_entry_in_Strapi
-
- 119_Get_details_of_a_forum_in_Disqus
-
- 119_workflow_119
-
- 120_Create_a_client_in_Harvest
-
- 121_Create_Email_Campaign_From_LinkedIn_Post_Interactions
-
- 122_Automate_assigning_GitHub_issues
-
- 122_Steam_+_CF_Report
-
- 122_Track_an_event_in_Segment
-
- 123_Create_a_ticket_in_Zendesk
-
- 125_Create_a_contact_in_Drift
-
- 126_Send_a_private_message_on_Zulip
-
- 127_Create,_update,_and_get_a_profile_in_Humantic_AI
-
- 127_Create_a_user_profile_in_Vero
-
- 128_Create_a_company_in_Salesmate
-
- 129_Get_information_about_a_company_with_UpLead
-
- 130_Get_all_the_tasks_in_Flow
-
- 131_Receive_a_Mattermost_message_when_a_user_updates_their_profile_on_Facebook
-
- 133_Analyze_the_sentiment_of_feedback_and_send_a_message_on_Mattermost
-
- 133_Receive_updates_for_specified_tasks_in_Flow
-
- 134_Receive_updates_for_the_position_of_the_ISS_every_minute_and_push_it_to_a_database
-
- 135_Receive_messages_for_an_ActiveMQ_queue_via_AMQP_Trigger
-
- 138_Get_new_time_entries_from_Toggl
-
- 140_Get_today's_date_and_day_using_the_Function_node
-
- 141_Assign_values_to_variables_using_the_Set_node
-
- 141_Send_daily_weather_updates_via_a_push_notification_using_Spontit
-
- 145_Translate_cocktail_instructions_using_LingvaNex
-
- 146_Send_financial_metrics_monthly_to_Mattermost
-
- 147_OpenAI-model-examples
-
- 151_Receive_a_Mattermost_message_when_new_data_gets_added_to_Airtable
-
- 156_Create,_update_and_get_records_in_Quick_Base
-
- 157_Get_synonyms_of_a_German_word
-
- 158_Create,_update,_and_get_an_incident_on_PagerDuty
-
- 158_Receive_the_weather_information_of_any_city
-
- 159_Create,_update_and_get_a_case_in_TheHive
-
- 160_Analyze_a_URL_and_get_the_job_details_using_the_Cortex_node
-
- 160_Write_a_file_to_the_host_machine
-
- 161_Create_a_table_and_insert_data_into_it
-
- 161_Receive_updates_when_an_event_occurs_in_TheHive
-
- 164_Create_a_channel,_invite_users_to_the_channel,_post_a_message,_and_upload_a_file
-
- 165_Create,_update_and_get_a_user_from_Iterable
-
- 166_Receive_messages_from_a_topic_and_send_an_SMS
-
- 167_Create_a_short_URL_and_get_the_statistics_of_the_URL
-
- 167_Smart_Factory_Data_Generator
-
- 168_Smart_Factory_Use_Case
-
- 170_Create,_update,_and_get_a_post_in_Ghost
-
- 171_Insert_and_update_data_in_Airtable
-
- 172_Create_a_table,_and_insert_and_update_data_in_the_table_in_Snowflake
-
- 173_Create_and_update_a_channel,_and_send_a_message_on_Twist
-
- 174_Send_the_Astronomy_Picture_of_the_day_daily_to_a_Telegram_channel
-
- 175_Get_messages_with_a_certain_label,_remove_the_label,_and_add_a_new_one
-
- 176_Get_the_logo,_icon,_and_information_of_a_company_and_store_it_in_Airtable
-
- 177_Telegram_AI-bot
-
- 178_Create_a_channel,_add_a_member,_and_post_a_message_to_the_channel
-
- 179_Create,_update,_and_get_a_document_in_Google_Cloud_Firestore
-
- 180_Discord_AI_bot
-
- 184_Send_updates_about_the_position_of_the_ISS_every_minute_to_a_topic_in_RabbitMQ
-
- 186_Receive_messages_from_a_queue_via_RabbitMQ_and_send_an_SMS
-
- 187_Create,_update_and_get_a_product_from_WooCommerce
-
- 188_Send_a_message_on_Mattermost_when_an_order_is_created_in_WooCommerce
-
- 189_Create,_update,_and_get_a_subscriber_using_the_e-goi_node
-
- 191_Create_a_screenshot_of_a_website_and_send_it_to_a_telegram_channel
-
- 193_Create,_add_an_attachment,_and_send_a_draft_using_the_Microsoft_Outlook_node
-
- 200_BillBot
-
- 201_Store_the_output_of_a_phantom_in_Airtable
-
- 205_Get_analytics_of_a_website_and_store_it_Airtable
-
- 208_Add_a_datapoint_to_Beeminder_when_new_activity_is_added_to_Strava
-
- 209_Create,_update_and_get_a_contact_using_the_SendGrid_node
-
- 215_Create,_update,_and_get_a_user_using_the_G_Suite_Admin_node
-
- 247_Congratulations_Workflow
-
- 331_Check_To_Do_on_Notion_and_send_message_on_Slack
-
- 340_Email_body_parser_by_aprenden8n.com
-
- 401_A_workflow_with_the_Twilio_node
-
- 829_Moving_metrics_from_Google_Sheets_to_Orbit
-
- 1001_typeform_feedback_workflow
-
- 1028_Loading_data_into_a_spreadsheet
-
- 1545_Updating_Shopify_tags_on_Onfleet_events
-
- 1546_Create_a_QuickBooks_invoice_on_a_new_Onfleet_Task_creation
-
- 1547_Create_an_Onfleet_task_when_a_file_in_Google_Drive_is_updated
-
- 2221_[n8n]_YouTube_Channel_Advanced_RSS_Feeds_Generator
-
- 2223_Dynamic_credentials_using_expressions
-
- 2241_Unsubscribe_Mautic_contacts_from_automated_unsubscribe_emails
-
- 2379_TOTP_VALIDATION_(WITHOUT_CREATING_CREDENTIAL)
-
- 2532_Backup_workflows_to_git_repository
-
- 2567_Google_Maps_Email_Scraper_Template
-
- 2576_Import_Productboard_Notes,_Companies_and_Features_into_Snowflake
-
- 2578_Linear_Project_Status_and_End_Date_to_Productboard_feature_Sync
-
- 2738_Transform_Image_to_Lego_Style_Using_Line_and_Dall-E
-
- 2890_Automate_Drive-To-Store_Lead_Generation_System_(with_coupon)_on_SuiteCRM
-
- 2990_Generate_Image_Workflow
-
- 3080_Automatically_Update_YouTube_Video_Descriptions_with_Inserted_Text
-
- 3808_AccountCraft_WhatsApp_Automation_-_Infridet
-
- 3976_Prevent_concurrent_workflow_runs_using_Redis
-
- A Very Simple _Human in the Loop_ Email Response System Using AI and IMAP
-
- A_B_Split_Testing
-
- Actioning Your Meeting Next Steps using Transcripts and AI
-
- Adaptive_RAG
-
- Add positive feedback messages to a table in Notion
-
- Add_a_event_to_Calender
-
- Add_Beehiiv_newsletter_subscribers_from_Gumroad_sales
-
- Add_new_clients_from_Notion_to_Clockify
-
- Add_new_incoming_emails_to_a_Google_Sheets_spreadsheet_as_a_new_row.
-
- Add_task_to_tasklist
-
- Add_text_to_an_image_downloaded_from_the_internet
-
- Addon_for_Workflow_Nodes_Update_Check_Template
-
- Advanced AI Demo (Presented at AI Developers #14 meetup)
-
- Advanced_AI_Powered_Document_Parsing_&_Text_Extraction_with_Llama_Parse
-
- Advanced_YouTube_RSS_Feed_Buddy_for_Your_Favorite_Channels
-
- Agent_Access_Control_Template
-
- Agent_Milvus_tool
-
- Agentic Telegram AI bot with with LangChain nodes and new tools
-
- Agentic_Telegram_AI_bot_with_LangChain_nodes_and_new_tools
-
- AhP1Fgv0eCrh9Jxs_AI-Generated_Summary_Block_for_WordPress_Posts_-_with_OpenAI,_WordPress,_Google_Sheets_&_Slack
-
- Ahrefs_Keyword_Research_Workflow
-
- AI Agent _ Google calendar assistant using OpenAI
-
- AI agent chat
-
- AI agent for Instagram DM_inbox. Manychat + Open AI integration
-
- AI Agent for project management and meetings with Airtable and Fireflies
-
- AI Agent for realtime insights on meetings
-
- AI agent that can scrape webpages
-
- AI Agent to chat with Airtable and analyze data
-
- AI Agent To Chat With Files In Supabase Storage
-
- AI Agent to chat with Supabase_PostgreSQL DB
-
- AI Agent to chat with you Search Console Data, using OpenAI and Postgres
-
- AI Agent with Ollama for current weather and wiki
-
- AI Automated HR Workflow for CV Analysis and Candidate Evaluation
-
- AI chat with any data source (using the n8n workflow tool)
-
- AI chatbot that can search the web
-
- AI Crew to Automate Fundamental Stock Analysis - Q&A Workflow
-
- AI Customer feedback sentiment analysis
-
- AI Data Extraction with Dynamic Prompts and Airtable
-
- AI Data Extraction with Dynamic Prompts and Baserow
-
- AI Fitness Coach Strava Data Analysis and Personalized Training Insights
-
- AI Powered Web Scraping with Jina, Google Sheets and OpenAI _ the EASY way
-
- AI Social Media Caption Creator creates social media post captions in Airtable
-
- AI Voice Chat using Webhook, Memory Manager, OpenAI, Google Gemini & ElevenLabs
-
- AI Voice Chatbot with ElevenLabs & OpenAI for Customer Service and Restaurants
-
- AI web researcher for sales
-
- AI Youtube Trend Finder Based On Niche
-
- AI_ Ask questions about any data source (using the n8n workflow retriever)
-
- AI_ Summarize podcast episode and enhance using Wikipedia
-
- AI_Agent_-_Cv_Resume_-_Automated_Screening_,_Sorting_,_Rating_and_Tracker_System
-
- AI_Agent__for_n8n_Creators_Leaderboard_-_Find_Popular_Workflows
-
- AI_Agent_Chatbot_+_LONG_TERM_Memory_+_Note_Storage_+_Telegram
-
- AI_Agent_Chatbot_with_Jina.ai_Webpage_Scraper
-
- AI_Agent_to_chat_with_you_Search_Console_Data,_using_OpenAI_and_Postgres
-
- AI_Agent_with_charts_capabilities_using_OpenAI_Structured_Output
-
- AI_Automated_TikTok_Youtube_Shorts_Reels_Generator
-
- AI_Customer-Support_Assistant_·_WhatsApp_Ready_·_Works_for_Any_Business
-
- AI_CV_Screening_Workflow
-
- AI_Document_Assistant_via_Telegram_+_Supabase
-
- AI_Email_processing_autoresponder_with_approval_(Yes_No)
-
- AI_Logo_Sheet_Extractor_to_Airtable
-
- AI_Phone_Agent_with_RetellAI
-
- AI_Powered_RAG_Chatbot_for_Your_Docs_+_Google_Drive_+_Gemini_+_Qdrant
-
- AI_Powered_Reporting_+_Gmail_+_Telegram
-
- AI_powered_SEO_Keyword_Research_Automation_-_The_vibe_Marketer
-
- AI_Social_Media_Caption_Creator
-
- AI_Social_Media_Publisher_from_WordPress
-
- AI_Social_Video_Generator_with_GPT-4,_Kling_&_Blotato_—Auto-Post_to_Instagram,_Facebook,,_TikTok,_Twitter_&_Pinterest_-_vide
-
- AI_T-Shirt_Redesign_Workflow_from_any_Mockup_Image
-
- AI_Voice_Chat_using_Webhook,_Memory_Manager,_OpenAI,_Google_Gemini_&_ElevenLabs
-
- AI-Driven Lead Management and Inquiry Automation with ERPNext & n8n
-
- AI-Driven_WooCommerce_Product_Importer_with_SEO
-
- AI-Generated Summary Block for WordPress Posts
-
- AI-Powered Candidate Shortlisting Automation for ERPNext
-
- AI-Powered Children_s Arabic Storytelling on Telegram
-
- AI-Powered Children_s English Storytelling on Telegram with OpenAI
-
- AI-Powered Email Automation for Business_ Summarize & Respond with RAG
-
- AI-powered email processing autoresponder and response approval (Yes_No)
-
- AI-Powered Information Monitoring with OpenAI, Google Sheets, Jina AI and Slack
-
- AI-Powered RAG Workflow For Stock Earnings Report Analysis
-
- AI-Powered Social Media Amplifier
-
- AI-powered WooCommerce Support-Agent
-
- AI-Powered_Information_Monitoring_with_OpenAI,_Google_Sheets,_Jina_AI_and_Slack
-
- AI-Powered_Research_with_Jina_AI_Deep_Search
-
- AI-Powered_Short-Form_Video_Generator_with_OpenAI,_Flux,_Kling,_and_ElevenLabs_and_upload_to_all_social_networks
-
- AI-Powered_WhatsApp_Chatbot_for_Text,_Voice,_Images_&_PDFs
-
- airflow_dag_run
-
- AirQuality_Scheduler
-
- Airtable_Batch_Processing
-
- Airtable_markdown_to_html
-
- Airtop_Web_Agent
-
- ALL_unique_nodes
-
- All-in-One_Telegram_Baserow_AI_Assistant_🤖🧠_Voice_Photo_Save_Notes_Long_Term_Mem
-
- Amazon_Ads_AI_Optimization
-
- Amazon_keywords
-
- Amazon_Product_Price_Tracker
-
- Analyse papers from Hugging Face with AI and store them in Notion
-
- Analyze & Sort Suspicious Email Contents with ChatGPT
-
- Analyze feedback and send a message on Mattermost
-
- Analyze feedback using AWS Comprehend and send it to a Mattermost channel
-
- Analyze Suspicious Email Contents with ChatGPT Vision
-
- Analyze tradingview.com charts with Chrome extension, N8N and OpenAI
-
- Analyze_email_headers_for_IPs_and_spoofing__3
-
- Analyze_Reddit_Posts_with_AI_to_Identify_Business_Opportunities
-
- Analyze_Screenshots_with_AI
-
- Analyze_YouTube_Video_for_Summaries,_Transcripts_&_Content_+_Google_Gemini_AI
-
- AnbedV2Ntx97sfed_Extract_&_Summarize_Bing_Copilot_Search_Results_with_Gemini_AI_and_Bright_Data
-
- Angie, Personal AI Assistant with Telegram Voice and Text
-
- anomaly_detection]_[1_2_-_KNN_classification]_Batch_upload_dataset_to_Qdrant_(crops_dataset)
-
- Anomaly_detection_tool_(crops_dataset)
-
- API Schema Extractor
-
- Append,_lookup,_update,_and_read_data_from_a_Google_Sheets_spreadsheet
-
- Archive_(delete)_duplicate_items_from_a_Notion_database
-
- Ask a human for help when the AI doesn_t know the answer
-
- Ask questions about a PDF using AI
-
- Attachments_Gmail_to_drive_and_google_sheets
-
- Auth0_User_Login
-
- Author and Publish Blog Posts From Google Sheets
-
- Auto Categorise Outlook Emails with AI
-
- Auto_-_Resume_Disabled_Workflows
-
- Auto_categorize_wordpress_template
-
- Auto_Knowledge_Base_Article_Generator
-
- Auto_WordPress_Blog_Generator_(GPT_+_Postgres_+_WP_Media)
-
- Auto-Categorize blog posts in wordpress using A.I.
-
- AutoClip_–_Automatically_Generate_Video_Clips_and_Upload_to_YouTube
-
- Auto-create_and_publish_AI_social_videos_with_Telegram,_GPT-4_and_Blotato
-
- Auto-label incoming Gmail messages with AI nodes
-
- Automate Blog Creation in Brand Voice with AI
-
- Automate Competitor Research with Exa.ai, Notion and AI Agents
-
- Automate Content Generator for WordPress with DeepSeek R1
-
- Automate Customer Support Issue Resolution using AI Text Classifier
-
- Automate Image Validation Tasks using AI Vision
-
- Automate LinkedIn Outreach with Notion and OpenAI
-
- Automate Pinterest Analysis & AI-Powered Content Suggestions With Pinterest API
-
- Automate Sales Meeting Prep with AI & APIFY Sent To WhatsApp
-
- Automate Screenshots with URLbox & Analyze them with AI
-
- Automate SIEM Alert Enrichment with MITRE ATT&CK, Qdrant & Zendesk in n8n
-
- Automate testimonials in Strapi with n8n
-
- Automate Your RFP Process with OpenAI Assistants
-
- Automate_Blog_Content_Creation_with_GPT-4,_Perplexity_&_WordPress
-
- Automate_Content_Generator_for_WordPress_with_DeepSeek_R1
-
- Automate_Etsy_Data_Mining_with_Bright_Data_Scrape_&_Google_Gemini
-
- Automate_Event_Creation_in_Google_Calendar_from_Google_Sheets
-
- Automate_Figma_Versioning_and_Jira_Updates_with_n8n_Webhook_Integration
-
- Automate_Google_Analytics_Reporting_-_AlexK1919
-
- Automate_LinkedIn_Posts_with_AI
-
- Automate_PDF_Image_Extraction_&_Analysis_with_GPT-4o_and_Google_Drive
-
- Automate_Pinterest_Analysis_&_AI-Powered_Content_Suggestions_With_Pinterest_API
-
- Automate_Your_Customer_Service_With_WhatsApp_Business_Cloud_&_Asana
-
- Automated AI image analysis and response via Telegram
-
- Automated End-to-End Fine-Tuning of OpenAI Models with Google Drive Integration
-
- Automated Hugging Face Paper Summary Fetching & Categorization Workflow
-
- Automated_Content_SEO_Audit_Report
-
- Automated_Daily_Weather_Data_Fetcher_and_Storage
-
- Automated_Form_Submission_Data_Storage_in_Airtable
-
- Automated_Image_Metadata_Tagging
-
- Automated_Image_Metadata_Tagging_(Community_Node)
-
- Automated_PDF_to_HTML_Conversion
-
- Automated_Research_Report_Generation_with_OpenAI,_Wikipedia,_Google_Search,_and_Gmail_Telegram
-
- Automated_Resume_Review_System_Using_OpenAI_+_Google_Sheets
-
- Automated_Social_Media_Content_Publishing_Factory_+_System_Prompt_Composition
-
- automated_social_media_content_publishing_factory_system_prompt_composition
-
- Automated_Work_Attendance_with_Location_Triggers
-
- Automated_Workflow_Backups_to_Google_Drive
-
- Automatic Background Removal for Images in Google Drive
-
- Automatically_Send_Daily_Meeting_List_to_Telegram
-
- Automating_Betting_Data_Retrieval_with_TheOddsAPI_and_Airtable
-
- Automatizacion_X
-
- Autonomous AI crawler
-
- AutoQoutesV2_template
-
- Auto-Tag Blog Posts in WordPress with AI
-
- Auto-Tag_Blog_Posts_in_WordPress_with_AI
-
- Backup_n8n_Workflows_to_Bitbucket
-
- Backup_Squarespace_code_Injections_to_Github
-
- Backup_workflows_to_git_repository_on_Gitea
-
- BambooHR AI-Powered Company Policies and Benefits Chatbot
-
- BambooHR_AI-Powered_Company_Policies_and_Benefits_Chatbot
-
- Baserow_markdown_to_html
-
- bash-dash_telegram
-
- Basic Automatic Gmail Email Labelling with OpenAI and Gmail API
-
- Basic_PDF_Digital_Sign_Service
-
- Bitrix24 Chatbot Application Workflow example with Webhook Integration
-
- Bitrix24_Chatbot_Application_Workflow_example_with_Webhook_Integration
-
- Blockchain_DEX_Screener_Insights_Agent
-
- Blog_Automation_TEMPLATE
-
- modelo_do_chatbot
-
- Brand_Content_Extract,_Summarize_&_Sentiment_Analysis_with_Bright_Data
-
- Breakdown Documents into Study Notes using Templating MistralAI and Qdrant
-
- Build a Financial Documents Assistant using Qdrant and Mistral.ai
-
- Build a Tax Code Assistant with Qdrant, Mistral.ai and OpenAI
-
- Build an OpenAI Assistant with Google Drive Integration
-
- Build Your Own Image Search Using AI Object Detection, CDN and ElasticSearchBuild Your Own Image Search Using AI Object Detection, CDN and ElasticSearch
-
- Build_a_Chatbot,_Voice_Agent_and_Phone_Agent_with_Voiceflow,_Google_Calendar_and_RAG
-
- Build_a_Phone_Agent_to_qualify_outbound_leads_and_inbound_calls_with_RetellAI_-vide
-
- Build_a_Web_Search_Chatbot_with_GPT-4o_and_MCP_Brave_Search
-
- Build_an_MCP_server_with_Airtable
-
- Build_an_MCP_Server_with_Google_Calendar
-
- Build_an_OpenAI_Assistant_with_Google_Drive_Integration
-
- Build_Custom_AI_Agent_with_LangChain_&_Gemini_(Self-Hosted)
-
- Build_your_first_AI_MCP_Server
-
- Building RAG Chatbot for Movie Recommendations with Qdrant and Open AI
-
- Building Your First WhatsApp Chatbot (1)
-
- Building Your First WhatsApp Chatbot
-
- Building_RAG_Chatbot_for_Movie_Recommendations_with_Qdrant_and_Open_AI
-
- Business_Canvas_Generator
-
- Business_WhatsApp_AI_RAG_Chatbot
-
- Calculate_the_Centroid_of_a_Set_of_Vectors
-
- Calendar_Agent
-
- Capture_Website_Screenshots_with_Bright_Data_Web_Unlocker_and_Save_to_Disk
-
- Chat Assistant (OpenAI assistant) with Postgres Memory And API Calling Capabalities
-
- Chat with a Google Sheet using AI
-
- Chat with GitHub API Documentation_ RAG-Powered Chatbot with Pinecone & OpenAI
-
- Chat with local LLMs using n8n and Ollama
-
- Chat with OpenAI Assistant (by adding a memory)
-
- Chat with OpenAIs GPT via a simple Telegram Bot
-
- Chat with PDF docs using AI (quoting sources)
-
- Chat with Postgresql Database
-
- Chat with your event schedule from Google Sheets in Telegram
-
- Chat_with_local_LLMs_using_n8n_and_Ollama
-
- Chat_with_Postgresql_Database
-
- Chatbot_AI
-
- ChatGPT Automatic Code Review in Gitlab MR
-
- cheems
-
- Chinese_Translator
-
- chrome_extension_backend_with_AI
-
- Classify lemlist replies using OpenAI and automate reply handling
-
- Classify new bugs in Linear with OpenAI_s GPT-4 and move them to the right team
-
- Clockify_Backup_Template
-
- Clockify_to_Syncro
-
- ClockifyBlockiaWorkflow
-
- Clone_n8n_Workflows_between_Instances_using_n8n_API
-
- Code_Review_workflow
-
- CoinMarketCap_AI_Data_Analyst_Agent
-
- CoinMarketCap_Crypto_Agent_Tool
-
- CoinMarketCap_DEXScan_Agent_Tool
-
- CoinMarketCap_Exchange_and_Community_Agent_Tool
-
- Coinmarketcap_Price_Agent
-
- Colombian_Invoices_Processing
-
- comentarios_automaticos
-
- Compare_2_SQL_datasets
-
- Complete business WhatsApp AI-Powered RAG Chatbot using OpenAI
-
- complete_guide_to_setting_up_and_generating_totp_codes_in_n8n
-
- Complete_Guide_to_Setting_Up_and_Generating_TOTP_Codes_in_n8n_🔐
-
- Complete_Youtube
-
- Compose reply draft in Gmail with OpenAI Assistant
-
- Configure your own Image Creation API Using OpenAI DALLE-3
-
- Confluence_Page_AI_Powered_Chatbot
-
- Connect_Airtable_Contacts_to_telli_for_Automated_AI_Voice_Call_Scheduling
-
- Contact_Agent
-
- Contact_Form_Text_Classifier_for_eCommerce
-
- Content_Creator_Agent
-
- Conversational Interviews with AI Agents and n8n Forms
-
- Conversion_Rate_Optimizer
-
- Convert text to speech with OpenAI
-
- Convert URL HTML to Markdown Format and Get Page Links
-
- Convert_image_from_jpg_png_to_webp
-
- Convert_Parquet,_Avro,_ORC_&_Feather_via_ParquetReader_to_JSON
-
- Convert_Squarespace_Profiles_to_Shopify_Customers_in_Google_Sheets
-
- Convert_YouTube_Videos_into_SEO_Blog_Posts
-
- Create a Branded AI-Powered Website Chatbot
-
- Create a Google Analytics Data Report with AI and sent it to E-Mail and Telegram
-
- Create dynamic Twitter profile banner
-
- create e-mail responses with fastmail and OpenAI
-
- Create, update, and get a profile in Humantic AI
-
- Create_AI-Ready_Vector_Datasets_for_LLMs_with_Bright_Data,_Gemini_&_Pinecone
-
- Create_Animated_Stories_using_GPT-4o-mini,_Midjourney,_Kling_and_Creatomate_API
-
- Create_Custom_Presentations_per_Lead
-
- Create_entry_in_Mailchimp_from_Airtable
-
- Create_Google_Creds
-
- Create_Nextcloud_Deck_card_from_email
-
- Create_Threads_on_Bluesky
-
- Create_Unique_Jira_tickets_from_Splunk_alerts
-
- Creating a AI Slack Bot with Google Gemini
-
- Credentials_Transfer
-
- Crypto_News_&_Sentiment
-
- Custom LangChain agent written in JavaScript
-
- Customer Insights with Qdrant, Python and Information Extractor
-
- Customer Support Channel and Ticketing System with Slack and Linear
-
- Customer_and_Sales_Support
-
- CV Resume PDF Parsing with Multimodal Vision AI
-
- CV Screening with OpenAI
-
- CV_Evaluation_-_Error_Handling
-
- Daily meetings summarization with Gemini AI
-
- Daily Podcast Summary
-
- Daily_AI_News_Translation_&_Summary_with_GPT-4_and_Telegram_Delivery
-
- Daily_Journal_Reminder
-
- Daily_meetings_summarization_with_Gemini_AI
-
- Daily_poems_in_Telegram
-
- Daily_Text_Affirmations
-
- Daylight_Saving_Time_Notification
-
- Deduplicate Scraping AI Grants for Eligibility using AI
-
- DeepSeek_AI_Agent_+_Telegram_+_LONG_TERM_Memory_🧠
-
- DeepSeek_v3.1
-
- DeepSeek_V3_Chat_&_R1_Reasoning_Quick_Start
-
- Detect hallucinations using specialised Ollama model bespoke-minicheck
-
- Detect toxic language in Telegram messages
-
- Dialpad_to_Syncro
-
- DigialOceanUpload
-
- Discord AI-powered bot
-
- Discord_Agent
-
- Discord_Intro
-
- Discord_MCP_Chat_Agent
-
- Discord_MCP_Server
-
- docker-immich-deploy
-
- Docsify_example
-
- Dsp_agent (1)
-
- DSP_Agent
-
- DSP_Certificate_w__Google_Forms
-
- dub.co_URL_Shortener
-
- Dynamic_Form_with_AI
-
- Dynamically generate a webpage from user request using OpenAI Structured Output (1)
-
- Dynamically generate a webpage from user request using OpenAI Structured Output
-
- Dynamically_create_tables_in_Airtable_for_your_Webflow_form_submissions
-
- Dynamically_generate_HTML_page_from_user_request_using_OpenAI_Structured_Output
-
- Dynamically_switch_between_LLMs_Template
-
- Easily_Compare_LLMs_Using_OpenAI_and_Google_Sheets
-
- Easy Image Captioning with Gemini 1.5 Pro
-
- Easy_Wordpress_Content_Creation_from_PDF_Document_+_Human_In_The_Loop_with_Gmail_Approval
-
- Eay_Google_analytics_template
-
- Effortless Email Management with AI-Powered Summarization & Review
-
- Effortless_Email_Management_with_AI
-
- Email Subscription Service with n8n Forms, Airtable and AI (1)
-
- Email Subscription Service with n8n Forms, Airtable and AI
-
- Email Summary Agent
-
- Email
-
- Email_Agent
-
- Email_AI_Auto-responder._Summerize_and_send_email
-
- e-mail_Chatbot_with_both_semantic_and_structured_RAG,_using_Telegram_and_Pgvector
-
- Email_Classification
-
- Email_mailbox_as_Todoist_tasks
-
- Email_Summary_Agent
-
- Email_verification_with_Icypeas_(single)
-
- Enhance Customer Chat by Buffering Messages with Twilio and Redis
-
- Enhance Security Operations with the Qualys Slack Shortcut Bot! (1)
-
- Enhance Security Operations with the Qualys Slack Shortcut Bot!
-
- Enhance_Chat_Responses_with_Real-Time_Search_Data_via_Bright_Data_&_Gemini_AI
-
- Enrich FAQ sections on your website pages at scale with AI
-
- Enrich Pipedrive_s Organization Data with OpenAI GPT-4o & Notify it in Slack
-
- Enrich Property Inventory Survey with Image Recognition and AI Agent
-
- Entra_Contacts_to_Zammad_User_Sync
-
- Entra_User_to_Zammad_User_Sync
-
- ERP_AI_chatbot_for_Odoo_sales_module
-
- Error_Alert_and_Summarizer
-
- Error_Handler_send_Telegram
-
- Essential_Multipage_Website_Scraper_with_Jina.ai
-
- ETL pipeline for text processing
-
- Example_-_Backup_n8n_to_Nextcloud
-
- Exponential_Backoff_for_Google_APIs
-
- Export_Zammad_Objects_Users,_Roles,_Groups_and_Organizations_to_Excel
-
- ext_to_Speech_(OpenAI)
-
- Extract and process information directly from PDF using Claude and Gemini
-
- Extract data from resume and create PDF with Gotenberg
-
- Extract Information from a Logo Sheet using forms, AI, Google Sheet and Airtable
-
- Extract insights & analyse YouTube comments via AI Agent chat
-
- Extract license plate number from image uploaded via an n8n form
-
- Extract personal data with self-hosted LLM Mistral NeMo
-
- Extract spending history from gmail to google sheet
-
- Extract text from PDF and image using Vertex AI (Gemini) into CSV
-
- Extract_&_Summarize_Indeed_Company_Info_with_Bright_Data_and_Google_Gemini
-
- Extract_&_Summarize_Wikipedia_Data_with_Bright_Data_and_Gemini_AI
-
- Extract_&_Summarize_Yelp_Business_Review_with_Bright_Data_and_Google_Gemini
-
- Extract_Amazon_Best_Seller_Electronic_Information_with_Bright_Data_and_Google_Gemini
-
- Extract_And_Decode_Google_News_RSS_URLs_to_Clean_Article_Links
-
- Extract_Business_Leads_from_Google_Maps_with_Dumpling_AI_to_Google_Sheets
-
- Extract_personal_data_with_a_self-hosted_LLM_Mistral_NeMo
-
- Extract_spend_details_(template)
-
- Extract_text_from_PDF_and_image_using_Vertex_AI_(Gemini)_into_CSV
-
- Extranet_Releases
-
- Fetch Dynamic Prompts from GitHub and Auto-Populate n8n Expressions in Prompt
-
- Fetch_Squarespace_Blog_&_Event_Collections_to_Google_Sheets__
-
- Fetch_the_Most_Recent_Document_from_Google_Drive
-
- FetchGithubIssues
-
- Figurine_Orthographic_Views_with_Midjourney_and_GPT-4o-Image_API
-
- Find_the_Best_Local_Ollama_Vision_Models_by_Comparison
-
- Find_Top_Keywords
-
- Fine-tuning_with_OpenAI_models
-
- Flux AI Image Generator
-
- Flux Dev Image Generation (Fal.ai) to Google Drive
-
- Flux_Dev_Image_Generation_Fal.ai
-
- FLUX-fill_standalone
-
- Force AI to use a specific output format
-
- Form_with_Dynamic_Dropdown_Field
-
- Format_US_Phone_Number
-
- Forward_Filtered_Gmail_Notifications_to_Telegram_Chat
-
- Forward_Netflix_emails_to_multiple_email_addresses_with_GMail_and_Mailjet
-
- Fully_automated_Video_Captions_generation_with_json2video
-
- Gemini_AI_Video_Analysis
-
- General_3D_Presentation
-
- Generate 9_16 Images from Content and Brand Guidelines
-
- Generate audio from text using OpenAI and Webhook _ Text to Speech Workflow
-
- Generate Instagram Content from Top Trends with AI Image Generation
-
- Generate SEO Seed Keywords Using AI
-
- Generate SQL queries from schema only - AI-powered
-
- Generate Text-to-Speech Using Elevenlabs via API
-
- Generate_360°_Virtual_Try-on_Videos_for_Clothing_with_Kling_API
-
- Generate_AI-Ready_llms.txt_Files_from_Screaming_Frog_Website_Crawls
-
- Generate_audio_from_text_using_OpenAI_-_text-to-speech_Workflow
-
- Generate_Company_Stories_from_LinkedIn_with_Bright_Data_&_Google_Gemini
-
- Generate_Exam_Questions
-
- Generate_google_meet_links_in_slack
-
- Generate_Graphic_Wallpaper_with_Midjourney,_GPT-4o-mini_and_Canvas_APIs
-
- Generate_Instagram_Content_from_Top_Trends_with_AI_Image_Generation
-
- Generate_Leads_with_Google_Maps_-_AlexK1919
-
- Generate_New_Keywords_with_Search_Volumes
-
- Generate_SEO-Optimized_WordPress_Content_with_Perplexity_Research
-
- Generate_SQL_queries_from_schema_only_-_AI-powered
-
- Generating Image Embeddings via Textual Summarisation
-
- Get Airtable data via AI and Obsidian Notes
-
- get_a_web_page
-
- Get_Airtable_data_in_Obsidian_Notes
-
- Get_all_orders_in_Squarespace_to_Google_Sheets
-
- Get_all_scaleway_server_info_copy
-
- get_Comments_from_Facebook_Page
-
- Get_event_triggered_notifications___updates_on_preferred_messaging_channels_with_TwentyCRM
-
- Get_Long_Lived_Facebook_User_or_Page_Access_Token
-
- Get_PDF_with_JSReport
-
- getBible_Query_v1.0
-
- Github_Releases
-
- GitLab_MR_Auto-Review_&_Risk_Assessment
-
- Give_Your_AI_Agent_Chatbot_Long_Term_Memory_Tools_Router
-
- Gmail AI Auto-Responder_ Create Draft Replies to incoming emails
-
- Gmail_MCP_Server
-
- Gmail_to_Vector_Embeddings_with_PGVector_and_Ollama
-
- Google_Cal_to_Zoom_meeting
-
- Google_Calendar_Event_Reminder
-
- google_calendar_to_outlook
-
- Google_Drive_Automation
-
- google_drive_to_instagram,_tiktok_and_youtube
-
- Google_Maps_FULL
-
- Google_Page_Entity_Extraction_Template
-
- Google_Search_Engine_Results_Page_Extraction_with_Bright_Data
-
- Google_Sheet_to_Mailchimp
-
- Google_Site_Index_-_sitemap.xml_example
-
- Google_Trend_Data_Extract,_Summarization_with_Bright_Data_&_Google_Gemini
-
- GoogleSheets_MySQL_Integration
-
- Gratitude_Jar_Reminder
-
- GROQ_LLAVA_V1.5_7B
-
- gumroad_sale_trigger
-
- Hacker News Job Listing Scraper and Parser
-
- Hacker News Throwback Machine - See What Was Hot on This Day, Every Year!
-
- Hacker News to Video Content
-
- Hacker_News_to_Video_Template_-_AlexK1919
-
- Handling Appointment Leads and Follow-up With Twilio, Cal.com and AI
-
- Handling Job Application Submissions with AI and n8n Forms
-
- HDW_Lead_Geländewagen
-
- High-Level_Service_Page_SEO_Blueprint_Report
-
- hn_who_is_hiring_scrape
-
- Host Your Own AI Deep Research Agent with n8n, Apify and OpenAI o3
-
- How_to_automatically_import_CSV_files_into_postgres
-
- HR & IT Helpdesk Chatbot with Audio Transcription
-
- HR Job Posting and Evaluation with AI
-
- HR_&_IT_Helpdesk_Chatbot_with_Audio_Transcription
-
- HR_Job_Posting_and_Evaluation_with_AI
-
- HR-focused_automation_pipeline_with_AI
-
- Hugging_Face__to_Notion
-
- ICP_Company_Scoring
-
- Image Creation with OpenAI and Telegram
-
- Image_Generation_API
-
- Image_to_license_plate_number
-
- Image-Based_Data_Extraction_API_using_Gemini_AI
-
- Image-to-3D
-
- ImapEmail,_XmlToJson,_POST-HTTP-Request
-
- Import_CSV_from_URL_to_Excel
-
- Import_multiple_CSV_to_GoogleSheet
-
- Import_multiple_Manufacturers_from_Google_Sheets_to_Shopware_6
-
- Import_Odoo_Product_Images_from_Google_Drive
-
- IMVycpyABaGuD1hq_Analyze_Crowdstrike_Detections__search_for_IOCs_in_VirusTotal__create_a_ticket_in_Jira_and_post_a_message_in_Slack
-
- Indeed_Company_Data_Scraper_&_Summarization_with_Airtable,_Bright_Data_and_Google_Gemini
-
- inkedin_to_Airtable
-
- INSEE_Enrichment_for_Agile_CRM
-
- Insert_and_retrieve_documents
-
- InstaTest
-
- Integrating AI with Open-Meteo API for Enhanced Weather Forecasting
-
- Integrating_AI_with_Open-Meteo_API_for_Enhanced_Weather_Forecasting
-
- Intelligent Web Query and Semantic Re-Ranking Flow using Brave and Google Gemini
-
- Intelligent_Web_Query_and_Semantic_Re-Ranking_Flow
-
- Introduction to the HTTP Tool
-
- Inverview_Scheduler
-
- Invoice data extraction with LlamaParse and OpenAI (1)
-
- Invoice data extraction with LlamaParse and OpenAI
-
- IT Ops AI SlackBot Workflow - Chat with your knowledge base
-
- itemMatching()_example
-
- JamDB0N_Email_form
-
- Jira_Retrospective
-
- KB Tool - Confluence Knowledge Base
-
- Keep_discord_clean
-
- KNN_classifier_(lands_dataset)
-
- Lead_Generation_System_(Template)
-
- lead_qualification_with_batchdata
-
- Learn Anything from HN - Get Top Resource Recommendations from Hacker News
-
- lemlist __ GPT-3_ Supercharge your sales workflows
-
- LINE Assistant with Google Calendar and Gmail Integration
-
- LINE_Assistant_with_Google_Calendar_and_Gmail_Integration
-
- LINE_BOT_-_Google_Sheets_Record_Receipt
-
- Line_Chatbot_Extract_Text_from_Pay_Slip_with_Gemini
-
- Line_Chatbot_Handling_AI_Responses_with_Groq_and_Llama3
-
- line_message_api_demo
-
- Line_Save_File_to_Google_Drive_and_Log_File's_URL
-
- LineChatBot_+_Google_Sheets
-
- Linkedin_Automation
-
- Linkedin_Chrome_Extensions
-
- LinkedIn_Leads_Scraping_&_Enrichment_(Main)
-
- LinkedIn_Profile_Discovery
-
- LinkedIn_Profile_Finder_via_Form_using_Bright_Data_&_GPT-4o-mini
-
- LinkedIn_Web_Scraping_with_Bright_Data_MCP_Server_&_Google_Gemini
-
- List_Builder
-
- Live_link_checker
-
- LLM_Chaining_examples
-
- Load_Prompts_from_Github_Repo_and_auto_populate_n8n_expressions
-
- Log_errors_and_avoid_sending_too_many_emails
-
- Luma_AI_-_Webhook_Response_v1_-_AK
-
- Luma_AI_Dream_Machine_-_Simple_v1
-
- MAIA_-_Health_Check
-
- Mailchimp
-
- mails2notion_V2
-
- Make OpenAI Citation for File Retrieval RAG
-
- Make_OpenAI_Citation_for_File_Retrieval_RAG
-
- Manipulate PDF with Adobe developer API
-
- Matomo_Analytics_Report
-
- MCP_CALENDAR
-
- MCP_Client_with_Brave_and_Telegram
-
- MCP_GMAIL
-
- MCP_SUPABASE_AGENT
-
- Meeting_booked_-_to_newsletter_and_CRM
-
- Merge
-
- Merge_multiple_runs_into_one
-
- Merge_PDFs
-
- Microsoft Outlook AI Email Assistant with contact support from Monday and Airtable
-
- Microsoft_Outlook_AI_Email_Assistant
-
- MiniBear_Webhook
-
- Modular & Customizable AI-Powered Email Routing_ Text Classifier for eCommerce
-
- MONDAY_GET_FULL_ITEM
-
- MongoDB AI Agent - Intelligent Movie Recommendations
-
- MongoDB_Agent
-
- Monitor_Competitor_Pricing
-
- Monitor_ProductHunt
-
- Monitor_security_advisories
-
- Monitor_USDT_ERC-20_Wallet_Balance_with_Etherscan_and_Telegram_Notifications
-
- Monthly Spotify Track Archiving and Playlist Classification
-
- Motion-illustration_Workflow_Generated_with_Midjourney_and_Kling_API
-
- multi-agent_conversation
-
- Multi-AI_Agent_Chatbot_for_Postgres_Supabase_DB_and_QuickCharts_+_Tool_Router
-
- n8n_Community_Topic_Tracker_by_Keyword
-
- n8n_Error_Report_to_Line
-
- N8N_Financial_Tracker_Telegram_Invoices_to_Notion_with_AI_Summaries_&_Reports
-
- n8n_Graphic_Design_Team
-
- n8n_update
-
- n8n_workflow_deployer
-
- n8napi-check-workflow-which-model-is-using
-
- NameCheap_Dynamic_DNS_(DDNS)
-
- Namesilo_Bulk_Domain_Availability_[Template]
-
- Narrating over a Video using Multimodal AI
-
- NetSuite_Rest_API_workflow
-
- NeurochainAI_Basic_API_Integration
-
- New_Email_➔_Create_Google_Task
-
- New_OpenAI_Image_Generation
-
- new_ticket_alerts_to_teams
-
- News_Extraction
-
- Noco_Kanban_Board_with_AI_Prioritization
-
- nostr_damus_ai_powered_reporting_gmail_telegram
-
- Notify_user_in_Slack_of_quarantined_email_and_create_Jira_ticket_if_opened
-
- Notion AI Assistant Generator
-
- Notion knowledge base AI assistant
-
- Notion to Pinecone Vector Store Integration
-
- Notion_to_Clockify_Sync_Template
-
- notion_to_linkedin
-
- Obsidian Notes Read Aloud using AI_ Available as a Podcast Feed
-
- OCR_receipts_from_Google_Drive
-
- OIDC_client_workflow
-
- OlAL_address_validation
-
- Online_Marketing_Weekly_Report
-
- On-Page_SEO_Audit
-
- Open Deep Research - AI-Powered Autonomous Research Workflow
-
- Open_Chanel_RAG_Chatbot_Application_Workflow_example_with_Webhook_Integration
-
- Open_Deep_Research_-_AI-Powered_Autonomous_Research_Workflow
-
- OpenAI assistant with custom tools
-
- OpenAI Assistant workflow_ upload file, create an Assistant, chat with it!
-
- OpenAI examples_ ChatGPT, DALLE-2, Whisper-1 – 5-in-1
-
- OpenAI_Assistant_for_Hubspot_Chat
-
- OpenAI_e-mail_classification_-_application
-
- OpenAI_Personal_Shopper_with_RAG_and_WooCommerce
-
- OpenAI-powered tweet generator
-
- OpenSea_AI-Powered_Insights_via_Telegram
-
- OpenSea_Analytics_Agent_Tool
-
- OpenSea_Marketplace_Agent_Tool
-
- OpenSea_NFT_Agent_Tool
-
- Optimise_images_uploaded_to_GDrive
-
- Optimize & Update Printify Title and Description Workflow
-
- Optimize_Prompt
-
- Organise Your Local File Directories With AI
-
- Orlen
-
- Outlook
-
- Parents_smart_bot (2)
-
- Parse PDF with LlamaParse and save to Airtable
-
- Parse_DMARC_reports
-
- pdf_to_text
-
- PDF2Blog
-
- Perform_a_domain_search_(single)_with_Icypeas
-
- Perform_an_email_search_with_Icypeas_(single)
-
- Perplexity_Researcher
-
- Perplexity_Researcher_to_HTML_Web_Page
-
- Personal Shopper Chatbot for WooCommerce with RAG using Google Drive and openAI
-
- Personal_Assistant_MCP_server
-
- Personal_Portfolio_Resume_CV_Chatbot
-
- Personalized_AI_Tech_Newsletter_Using_RSS,_OpenAI_and_Gmail
-
- PG&E_Daily_Cost_Tracker
-
- Phishing_analysis__URLScan_io_and_Virustotal_
-
- piepdrive-test
-
- Play_with_Spotify_from_Telegram
-
- POC_-_Chatbot_Order_by_Sheet_Data
-
- Post New YouTube Videos to X
-
- Post_new_Google_Calendar_events_to_Telegram
-
- Post_New_YouTube_Videos_to_X
-
- Post_on_X
-
- post_to_mattermost_v2
-
- Prepare CSV files with GPT-4Prepare CSV files with GPT-4
-
- Prepare_CSV_files_with_GPT-4
-
- Printify_Automation_-_Update_Title_and_Description_-_AlexK1919
-
- Private_&_Local_Ollama_Self-Hosted_LLM_Router
-
- Prompt-based Object Detection with Gemini 2.0
-
- Property_Lead_Contact_Enrichment_from_CRM
-
- ProspectLens_company_research
-
- Proxmox AI Agent with n8n and Generative AI Integration
-
- Publish_Image_Post_to_Bluesky
-
- Publish_Videos_&_Images_-_Blotato
-
- PUQ_Docker_NextCloud_deploy
-
- puq-docker-influxdb-deploy
-
- puq-docker-minio-deploy
-
- puq-docker-n8n-deploy
-
- Push_Multiple_Files_to_Github_Repo_via_Github_REST_API
-
- Qdrant_Vector_Database_Embedding_Pipeline
-
- Qualify new leads in Google Sheets via OpenAI_s GPT-4
-
- Qualify replies from Pipedrive persons with AI
-
- Qualify_new_leads_in_Google_Sheets_via_OpenAI's_GPT-4
-
- Qualifying Appointment Requests with AI & n8n Forms
-
- Query n8n Credentials with AI SQL Agent
-
- Query Perplexity AI from your n8n workflows
-
- Query_List_of_Sign-in_IPs
-
- RAG Chatbot for Company Documents using Google Drive and Gemini
-
- RAG_&_GenAI_App_With_WordPress_Content
-
- RAG_AI_Agent_with_Milvus_and_Cohere
-
- RAG_Context-Aware Chunking _ Google Drive to Pinecone via OpenRouter & Gemini
-
- RAG_on_living_data
-
- RAG_Workflow_For_Company_Documents_stored_in_Google_Drive
-
- RAG_Workflow_For_Stock_Earnings_Report_Analysis
-
- React_to_PDFMonkey_Callback
-
- Read_RSS_feed_from_two_different_sources
-
- Read_sitemap_and_filter_URLs
-
- Real_Estate_Market_Scanning
-
- Realtime_Notion_Todoist_2-way_Sync_Template
-
- Receive_and_analyze_emails_with_rules_in_Sublime_Security
-
- Recipe Recommendations with Qdrant and Mistral
-
- Reconcile Rent Payments with Local Excel Spreadsheet and OpenAI
-
- Reddit AI digest
-
- Refresh_Pipedrive_tokens
-
- Remote_IOT_Sensor_monitoring_via_MQTT_and_InfluxDB
-
- Remove Personally Identifiable Information (PII) from CSV Files with OpenAI
-
- Remove_Advanced_Background_from_Google_Drive_Images
-
- Reschedule_overdue_Asana_tasks_and_clean_up_completed_tasks
-
- Reservation_Medcin
-
- Respond to WhatsApp Messages with AI Like a Pro!
-
- Restore_workflows_from_GitHub_to_n8n
-
- Restore_your_workflows_from_GitHub
-
- Resume_Screening_&_Behavioral_Interviews_with_Gemini,_Elevenlabs,_&_Notion_ATS_copy
-
- Retry_Execution_Hourly
-
- Retry_on_fail_except_for_known_error_Template
-
- RSS_to_Telegram
-
- rss-telegram
-
- Save_new_Files_received_on_Telegram_to_Google_Drive
-
- Save_New_Sales_Opportunities
-
- Save_Telegram_reply_to_journal_spreadsheet
-
- Scans_von_PDF_zu_Nextcloud
-
- Schedule_workflow_activity_time
-
- Scrape and summarize posts of a news site without RSS feed using AI and save them to a NocoDB
-
- Scrape and summarize webpages with AI
-
- Scrape Trustpilot Reviews with DeepSeek, Analyze Sentiment with OpenAI
-
- Scrape_Books_from_URL_with_Dumpling_AI,_Clean_HTML,_Save_to_Sheets,_Email_as_CSV
-
- Scrape_Latest_20_TechCrunch_Articles
-
- Scrape_Today's_Github_Trend_13_Top_Repositories
-
- Scrape_Trustpilot_Reviews_to_Google_Sheets
-
- Scrape_Trustpilot_Reviews_with_DeepSeek,_Analyze_Sentiment_with_OpenAI
-
- Scrape_Web_Data_with_Bright_Data,_Google_Gemini_and_MCP_Automated_AI_Agent
-
- Screen Applicants With AI, notify HR and save them in a Google Sheet
-
- Search_&_Summarize_Web_Data_with_Perplexity,_Gemini_AI_&_Bright_Data_to_Webhooks
-
- Search_LinkedIn_companies,_Score_with_AI_and_add_them_to_Google_Sheet_CRM
-
- Search_LinkedIn_companies_and_add_them_to_Airtable_CRM
-
- Search_news_using_Perplexity_AI_and_post_to_X_(Twitter)
-
- SearchApi_AI_Agent
-
- SearchApi_Youtube_Video_Summary
-
- Selenium_Ultimate_Scraper_Workflow
-
- Sell_a_Used_Car
-
- Send a ChatGPT email reply and save responses to Google Sheets
-
- Send a random recipe once a day to Telegram
-
- Send daily translated Calvin and Hobbes Comics to Discord
-
- Send Google analytics data to A.I. to analyze then save results in Baserow
-
- Send Google analytics data to A.I. to analyze then save results in BaserowSend Google analytics data to A.I. to analyze then save results in Baserow
-
- Send specific PDF attachments from Gmail to Google Drive using OpenAI
-
- Send_a_message_on_Twake
-
- Send_and_check_TTS_(Text-to-speech)_voice_calls_end_email_verification
-
- Send_Daily_Birthday_Reminders_from_Google_Contacts_to_Slack
-
- Send_Discord_message_from_Webflow_form_submission
-
- Send_Emails_from_Obsidian
-
- send_file_to_kindle_through_telegram_bot
-
- Send_Message_In_Larksuite
-
- Send_Slack_message_from_Webflow_form_submission
-
- Send_SMS_to_numbers_stored_in_Airtable_with_Twilio
-
- Send_Telegram_Alerts_for_New_WooCommerce_Orders
-
- Send_TTS_(Text-to-speech)_voice_calls
-
- Send_Typeforms_leads_via_Whatsapp_(Twilio)
-
- Sentiment Analysis Tracking on Support Issues with Linear and Slack (1)
-
- Sentiment Analysis Tracking on Support Issues with Linear and Slack
-
- SEO_Blog_Generator_with_GPT-4o,_Perplexity,_and_Telegram_Integration
-
- SERPBear_analytics_template
-
- Set_up_medoids_(2_types)_for_anomaly_detection_(crops_dataset)
-
- Share YouTube Videos with AI Summaries on Discord
-
- SHEETS_RAG
-
- Shopify_+_Mautic
-
- Shopify_order_UTM_to_Baserow
-
- Shopify_Orders_to_D365_Business_Central_Sales_Orders___Sales_Invoices
-
- Shopify_to_Google_Sheets_Product_Sync_Automation
-
- SIGNL4_Alert
-
- Simple Expense Tracker with n8n Chat, AI Agent and Google Sheets
-
- Simple_Lead_Tracker_Automation_v4
-
- Simple_LinkedIn_profile_collector
-
- Simple_OpenAI_Image_Generator
-
- Siri AI Agent_ Apple Shortcuts powered voice template
-
- Slack slash commands AI Chat Bot
-
- Slack_AI_Chatbot_with_RAG_for_company_staff
-
- Slack_Webhook_-_Verify_Signature
-
- Slack-GitHub_User_Info
-
- Social Media Analysis and Automated Email Generation
-
- Social_Media_AI_Agent_-_Telegram
-
- Social_Media_Publisher
-
- Speech_Support_Workflow
-
- Speed Up Social Media Banners With BannerBear.com
-
- Spot Workplace Discrimination Patterns with AI
-
- Spot_Workplace_Discrimination_Patterns_with_AI
-
- Spotify_Sync_Liked_Songs_to_Playlist
-
- spy_tool
-
- SQL_agent_with_memory
-
- SSL_Expiry_Alert
-
- StatsInstagram
-
- Store Notion_s Pages as Vector Documents into Supabase with OpenAI
-
- Store_Notion's_Pages_as_Vector_Documents_into_Supabase_with_OpenAI
-
- Streamline_data_from_an_n8n_form_into_Google_Sheet_and_Airtable
-
- Streamline_Your_Zoom_Meetings_with_Secure,_Automated_Stripe_Payments
-
- Stripe_Payment_Order_Sync_–_Auto_Retrieve_Customer_&_Product_Purchased
-
- Structured_Bulk_Data_Extract_with_Bright_Data_Web_Scraper
-
- Structured_Data_Extract,_Data_Mining_with_Bright_Data_&_Google_Gemini
-
- Subworkflow_Dependency_Graph_&_Auto-Tagging
-
- Suggest meeting slots using AI
-
- Summarize Google Sheets form feedback via OpenAI_s GPT-4
-
- Summarize SERPBear data with AI (via Openrouter) and save it to Baserow
-
- Summarize the New Documents from Google Drive and Save Summary in Google Sheet
-
- Summarize Umami data with AI (via Openrouter) and save it to Baserow
-
- Summarize your emails with A.I. (via Openrouter) and send to Line messenger (1)
-
- Summarize your emails with A.I. (via Openrouter) and send to Line messenger
-
- Summarize YouTube Videos from Transcript
-
- Summarize_emails_with_A.I._then_send_to_messenger
-
- Summarize_Glassdoor_Company_Info_with_Google_Gemini_and_Bright_Data_Web_Scraper
-
- Summarize_Google_Drive_Documents_with_Mistral_AI_and_Send_via_Gmail
-
- Summarize_Google_Sheets_form_feedback_via_OpenAI's_GPT-4
-
- Summarize_YouTube_Videos_&_Chat_About_Content_with_GPT-4o-mini_via_Telegram
-
- Supabase Insertion & Upsertion & Retrieval
-
- Supabase_Setup_Postgres
-
- Survey Insights with Qdrant, Python and Information Extractor
-
- Suspicious_login_detection
-
- Sync_Jira_issues_with_subsequent_comments_to_Notion_database
-
- Sync_New_Files_From_Google_Drive_with_Airtable
-
- Sync_New_Shopify_Customers_to_Odoo_Contacts
-
- Sync_New_Shopify_Products_to_Odoo_Product
-
- Sync_Todoist_tasks_to_Notion
-
- Sync_Youtube_Video_Urls_with_Google_Sheets
-
- Synchronize_your_Google_Sheets_with_Postgres
-
- Syncro_to_Clockify
-
- Talk to your SQLite database with a LangChain AI Agent
-
- Task_Form_Widget_Application_Workflow_example_with_Webhook_Integration
-
- Tavily_Search_&_Extract_-_Template
-
- Tech_Radar
-
- Telegram AI bot assistant_ ready-made template for voice & text messages
-
- Telegram AI bot with LangChain nodes
-
- Telegram AI Bot_ NeurochainAI Text & Image - NeurochainAI Basic API Integration
-
- Telegram AI Chatbot
-
- Telegram Bot with Supabase memory and OpenAI assistant integration
-
- Telegram chat with PDF
-
- Telegram to Spotify with OpenAI
-
- Telegram_AI_Langchain_bot
-
- Telegram_AI_multi-format_chatbot
-
- Telegram_channel_to_Readeck_&_Hoarder
-
- Telegram_Chat_with_Buffering
-
- Telegram_ChatBot_with_multiple_sessions
-
- Telegram_echo-bot
-
- Telegram_Messaging_Agent_for_Text_Audio_Images
-
- Telegram_RAG_pdf
-
- Telegram_Tron_Wallet_Blacklist_Checker
-
- Telegram_Weather_Workflow
-
- Telegram-bot_AI_Da_Nang
-
- TEMPLATE_-_Multi_Methods_API_Endpoint
-
- Template_-_SSL_Expiry_Alert_System
-
- template-demo-chatgpt-image-1-with-drive-and-sheet_copy
-
- TEMPLATES
-
- Test_Webhooks_in_n8n_Without_Changing_WEBHOOK_URL_(PostBin_&_BambooHR_Example)
-
- Testing_Mulitple_Local_LLM_with_LM_Studio
-
- Text automations using Apple Shortcuts (1)
-
- Text automations using Apple Shortcuts
-
- TfwQRZkTBtykx1rM_Enrich_Company_Data_from_Google_Sheet_with_OpenAI_Agent_and_Scraper_Tool
-
- The_Easiest_Way_to_Send_SMS_Worldwide
-
- The_Ultimate_Guide_to_Optimize_WordPress_Blog_Posts_with_AI
-
- TheHive
-
- Three-View_Orthographic_Projection_to_Dynamic_Video_Conversion
-
- Tiktok_Downloader
-
- Todoist_Weekly_Review_Template
-
- TopSourcer_-_Finds_LinkedIn_Profiles_using_natural_language
-
- Track_Working_Time_and_Pauses
-
- Training_Feedback_Automation
-
- Transcribe Audio Files, Summarize with GPT-4, and Store in Notion
-
- Transcribing Bank Statements To Markdown Using Gemini Vision AI
-
- Transform Image to Lego Style Using Line and Dall-E
-
- Translate audio using AI
-
- Translate Telegram audio messages with AI (55 supported languages)
-
- Translate
-
- Translate_questions_about_e-mails_into_SQL_queries_and_run_them
-
- Translate_Telegram_audio_messages_with_AI_(55_supported_languages)_v1
-
- Travel_AssistantAgent
-
- Travel_Planning_Agent_with_Couchbase_Vector_Search,_Gemini_2.0_Flash_and_OpenAI
-
- Turn Emails into AI-Enhanced Tasks in Notion (Multi-User Support) with Gmail, Airtable and Softr
-
- Turn_YouTube_Videos_into_Summaries,_Transcripts,_and_Visual_Insights
-
- Twitter Virtual AI Influencer
-
- Twitter_notifications
-
- TwitterWorkflow
-
- Ultimate Scraper Workflow for n8n
-
- Ultimate_AI-Powered_Chatbot_for_YouTube_Summarization_&_Analysis
-
- Ultimate_Personal_Assistant
-
- Umami_analytics_template
-
- Unique_QRcode_coupon_assignment_and_validation_for_Lead_Generation_system
-
- Update Twitter banner using HTTP request
-
- Update_all_Zammad_Roles_to_default_values
-
- Update_Roles_by_Excel
-
- Upload to Instagram and Tiktok from Google Drive
-
- Upload_video_to_drive_via_google_script
-
- upload-post_images
-
- Upsert huge documents in a vector store with Supabase and Notion
-
- URL_Pinger
-
- Use AI to organize your Todoist Inbox
-
- Use OpenRouter in n8n versions _1.78
-
- Use_any_LLM-Model_via_OpenRouter
-
- Use_OpenAI_to_Transcribe_Audio_+_Summarize_with_AI_+_Save_to_Google_Drive
-
- Use_XMLRPC_via_HttpRequest-node_to_post_on_Wordpress.com
-
- Using External Workflows as Tools in n8n
-
- UTM Link Creator & QR Code Generator with Scheduled Google Analytics Reports
-
- UTM_Link_Creator_&_QR_Code_Generator_with_Scheduled_Google_Analytics_Reports
-
- v1_helper_-_Find_params_with_affected_expressions
-
- Validate_Seatable_Webhooks_with_HMAC_SHA256_Authentication
-
- vAssistant for Hubspot Chat using OpenAi and Airtable
-
- Vector Database as a Big Data Analysis Tool for AI Agents [1_3 anomaly][1_2 KNN]
-
- Vector Database as a Big Data Analysis Tool for AI Agents [2_2 KNN] (1)
-
- Vector Database as a Big Data Analysis Tool for AI Agents [2_2 KNN]
-
- Vector Database as a Big Data Analysis Tool for AI Agents [2_3 - anomaly]
-
- Vector Database as a Big Data Analysis Tool for AI Agents [3_3 - anomaly]
-
- Vector_DB_Loader_from_Google_Drive
-
- Venafi Cloud Slack Cert Bot
-
- Very_simple_Human_in_the_loop_system_email_with_AI_e_IMAP
-
- Vision-Based_AI_Agent_Scraper_-_with_Google_Sheets,_ScrapingBee,_and_Gemini
-
- Visual Regression Testing with Apify and AI Vision Model
-
- Visualize your SQL Agent queries with OpenAI and Quickchart.io
-
- Voice_RAG_Chatbot_with_ElevenLabs_and_OpenAI
-
- Weather_via_Slack
-
- Web_Server_Monitor.
-
- Website_check
-
- Weekly_Shodan_Query___Report_Accidents__no_function_node_
-
- WhatsApp_business_bot
-
- WhatsApp_starter_workflow
-
- Whisper_Transkription_copy
-
- WooCommerce_AI_Chatbot_Workflow_for_Post-Sales_Support
-
- WordPress - AI Chatbot to enhance user experience - with Supabase and OpenAI
-
- WordPress_Contact_Form_(CF7)_Responses_and_Classification
-
- Wordpress_Form_to_Mautic
-
- Wordpress-to-csv
-
- Results_to_Markdown_Notes_in_Your_Obsidian_Vault,_via_Google_Drive
-
- Workflow_stats
-
- workflow_x2VUvhqV1YTJCIN0
-
- Write a WordPress post with AI (starting from a few keywords)
-
- XML_Conversion
-
- YogiAI
-
- Your_First_Wordpress_Content_Creator_-_Quick_Start
-
- YOUR_WORKFLOW_ID_Automated_Content_Generation_&_Publishing_-_Wordpress
-
- Youtube_Automation
-
- youtube_chapter_generator
-
- YouTube_Comment_Sentiment_Analyzer
-
- Youtube_Discord_Bot
-
- Youtube_Searcher
-
- YouTube_to_Airtable_Anonym
-
- YouTube_to_X_Post-_AlexK1919
-
- YouTube_Video_Analyzer_with_AI
-
- YouTube_Video_Comment_Analysis_Agent
-
- YouTube_Video_Transcriber
-
- Youtube_Video_Transcript_Extraction
-
- YouTube_Videos_with_AI_Summaries_on_Discord
-
- YT_AI_News_Playlist_Creator_AI_News_Form_Updater
-
- YT_New_Video_Upload
-
- Zammad_Open_Tickets
-
- Zip_multiple_files
-
- Zoom AI Meeting Assistant creates mail summary, ClickUp tasks and follow-up call
-
- Zoom_AI_Meeting_Assistant
-
- 🎨 Interactive Image Editor with FLUX.1 Fill Tool for Inpainting
-
- 🐋DeepSeek V3 Chat & R1 Reasoning Quick Start
-
- 🐋🤖 DeepSeek AI Agent + Telegram + LONG TERM Memory 🧠
-
- 📈 Receive Daily Market News from FT.com to your Microsoft outlook inbox
-
- 📚 Auto-generate documentation for n8n workflows with GPT and Docsify
-
- 🔍 Perplexity Research to HTML_ AI-Powered Content Creation
-
- 🔐🦙🤖 Private & Local Ollama Self-Hosted AI Assistant
-
- 🔥📈🤖 AI Agent for n8n Creators Leaderboard - Find Popular Workflows
-
- 🗨️Ollama_Chat
-
- 🚀 Local Multi-LLM Testing & Performance Tracker
-
- 🤖 Telegram Messaging Agent for Text_Audio_Images
-
- 🤖🧑_💻 AI Agent for Top n8n Creators Leaderboard Reporting
-
- 🤖🧠 AI Agent Chatbot + LONG TERM Memory + Note Storage + Telegram
-
- 外送記帳
-
- _AI_Agent__for_Top_n8n_Creators_Leaderboard_Reporting
-
- ✨ Vision-Based AI Agent Scraper - with Google Sheets, ScrapingBee, and Gemini
-
- ⚡AI-Powered YouTube Video Summarization & Analysis
-
- ⚡AI-Powered_YouTube_Playlist_&_Video_Summarization_and_Analysis_v2
-
- 4.post_to_wallabag
-
- 5_Syncro_Status_Update_Clockify
-
-6_Dashboard
+# n8n Workflows Catalog
+
+Welcome to the **n8n Workflows Catalog**, a comprehensive list of automation workflows created using [n8n](https://n8n.io), the powerful fair-code workflow automation tool. This README contains **all known titles** compiled from multiple sources, showcasing a vast collection of unique, creative, and useful automations.
+
+> **Credits**: This list was compiled and maintained by **Vlad C. Gherga** from **ThinkAI**.
+
+---
+
+## 📚 Full Workflow Titles Index
+
+### 🧩 Workflow Titles
+
+Here’s a comprehensive list of automation workflows, reformatted for readability. Each title reflects a real-world use case you can explore or be inspired by:
+
+<ul>
+  <li>ETL pipeline</li>
+  <li>Coffee Bot (Mattermost)</li>
+  <li>Daily Language Learning</li>
+  <li>Publish post to a publication</li>
+  <li>YouTube to Raindrop</li>
+  <li>Get only new RSS with Photo</li>
+  <li>Sample Spotify</li>
+  <li>workflow 8</li>
+  <li>Coffee Bot (Matrix)</li>
+  <li>Plex Automatic Throttler</li>
+  <li>What To Eat</li>
+  <li>workflow 11</li>
+  <li>Create Onfleet tasks from Spreadsheets</li>
+  <li>Find a New Book</li>
+  <li>Creating an Onfleet Task for a new Shopify Fulfillment</li>
+  <li>Mattermost Webhook</li>
+  <li>Receive updates when a form is submitted in Mautic, and send a confirmation SMS</li>
+  <li>workflow 13</li>
+  <li>Activity Encouragement</li>
+  <li>Add a subscriber to a list and create and send a campaign</li>
+  <li>extract swifts</li>
+  <li>Onfleet Driver signup message in Slack</li>
+  <li>Update Crypto Values</li>
+  <li>Bubble Data Access</li>
+  <li>Tools   Backup Gitlab</li>
+  <li>User Request Management</li>
+  <li>Gender Inclusive Language</li>
+  <li>Snowflake CSV</li>
+  <li>Create, update and get a contact in Google Contacts</li>
+  <li>Upload video, create playlist and add video to playlist</li>
+  <li>Zendesk-to-slack</li>
+  <li>Add subscriber to form, create tag and subscriber to the tag</li>
+  <li>Create a release and get all releases</li>
+  <li>N8N Español - BOT</li>
+  <li>workflow 27</li>
+  <li>Receive updates when a subscriber is added through a form in ConvertKit</li>
+  <li>N8N Español - Ejemplos</li>
+  <li>Receive updates when a subscriber unsubscribes in Customer.io</li>
+  <li>workflow 29</li>
+  <li>N8N Español - NocodeBot</li>
+  <li>Receive updates when a subscriber is added to a group and strore the information in Airtable</li>
+  <li>Create a customer and add them to a segment in Customer.io</li>
+  <li>n8n check</li>
+  <li>Postgres Data Ingestion</li>
+  <li>Receive updates for support in Zendesk</li>
+  <li>Monitoring and alerting</li>
+  <li>Receive updates when a sale is made in Gumroad</li>
+  <li>PostgreSQL export to CSV</li>
+  <li>Receive updates when a form submission occurs in your Webflow website</li>
+  <li>Cocktail Recipe Sharing</li>
+  <li>Receive updates when a billing plan is activated in PayPal</li>
+  <li>Receive updates when an event occurs in Asana</li>
+  <li>Receive updates when an email is bounced or opened</li>
+  <li>Workflow management</li>
+  <li>Receive messages for a MQTT queue</li>
+  <li>Trigger a build using the TravisCI node</li>
+  <li>CFP Selection 1</li>
+  <li>Create a coupon on Paddle</li>
+  <li>CFP Selection 2</li>
+  <li>Convert the JSON data received from the CocktailDB API in XML</li>
+  <li>Expense Tracker App</li>
+  <li>Send an SMS when a workflow fails</li>
+  <li>Send a cocktail recipe every day via a Telegram</li>
+  <li>Receive updates from Telegram and send an image of a cocktail</li>
+  <li>Turn on a light and set its brightness</li>
+  <li>Send an SMS using the Mocean node</li>
+  <li>Create a post and update the post in WordPress</li>
+  <li>n8n mysql purge history greater than 10 days</li>
+  <li>Receive updates when a customer is created in HelpScout</li>
+  <li>Receive updates when a new list is created in Affinity</li>
+  <li>Upload a file and get a list of all the files in a bucket</li>
+  <li>Get Product Feedback</li>
+  <li>Two Way Sync Pipedrive and MySQL</li>
+  <li>Create, update, and get an issue on Taiga</li>
+  <li>Creating your first workflow</li>
+  <li>Receive updates when an event occurs in Taiga</li>
+  <li>Create a project, tag, and time entry, and update the time entry in Clockify</li>
+  <li>Extract information from an image of a receipt</li>
+  <li>Receive updates when a form is submitted in Wufoo</li>
+  <li>Get the price of BTC in EUR and send an SMS when the price is larger than EUR 9000</li>
+  <li>New WooCommerce product to Slack</li>
+  <li>Execute a command that gives the hard disk memory used on the host machine</li>
+  <li>New WooCommerce order to Slack</li>
+  <li>aN6oJGMho5kCvQ OpenAI ImageGen1 Template</li>
+  <li>Create a new list, add a new contact to the list, update the contact, and get all contacts in the list</li>
+  <li>New WooCommerce refund to Slack</li>
+  <li>Send daily weather updates via a push notification using the Pushcut node</li>
+  <li>Create a room, invite members from a different room, and send a message in the room we created</li>
+  <li>Creating a meeting with the Zoom node</li>
+  <li>New WooCommerce Customer to Mautic</li>
+  <li>Get a pipeline in CircleCI</li>
+  <li>Send daily weather updates to a phone number using the Vonage node</li>
+  <li>New WooCommerce Product to Twitter and Telegram</li>
+  <li>Sending an SMS with MessageBird</li>
+  <li>Check for valid Mautic contact email</li>
+  <li>Create a new issue in Jira</li>
+  <li>Check for valid Hubspot contact email</li>
+  <li>Get the current weather data for a city</li>
+  <li>Create a new card in Trello</li>
+  <li>Post RSS feed items from yesterday to Slack</li>
+  <li>Extract expenses from emails and add to Google Sheet</li>
+  <li>Post a message to a channel in RocketChat</li>
+  <li>Create a new user in Intercom</li>
+  <li>New invoice email notification</li>
+  <li>Send daily weather updates via a push notification</li>
+  <li>Send an SMS to a number whenever you go out</li>
+  <li>Sending an SMS using sms77</li>
+  <li>Translate text from English to German</li>
+  <li>Create, update, and get activity in Strava</li>
+  <li>Create an organization in Affinity</li>
+  <li>Receive updates when a new activity gets created and tweet about it</li>
+  <li>Scrape Twitter for mentions of company</li>
+  <li>Create, update and get a subscriber using the MailerLite node</li>
+  <li>Create a new contact in Agile CRM</li>
+  <li>Create a new task in Asana</li>
+  <li>Send updates about the position of the ISS every minute to a topic in Kafka</li>
+  <li>Execute an SQL query in Microsoft SQL</li>
+  <li>Create a new task in Todoist</li>
+  <li>On new Stripe Invoice Payment update Hubspot and notify the team in Slack</li>
+  <li>Insert data into a new row for a table in Coda</li>
+  <li>Send updates about the position of the ISS every minute to a topic in ActiveMQ</li>
+  <li>Create a new customer in Chargebee</li>
+  <li>verify email</li>
+  <li>location by ip</li>
+  <li>Look up a person using their email in Clearbit</li>
+  <li>Create a new member, update the information of the member, create a note and a post for the member in Orbit</li>
+  <li>Create a task in ClickUp</li>
+  <li>screenshot</li>
+  <li>Get a volume and add it to your bookshelf</li>
+  <li>Receive updates for events in Chargebee</li>
+  <li>Get all the stories starting with release and publish them</li>
+  <li>Get SSL Certificate</li>
+  <li>Receive updates for events in ClickUp</li>
+  <li>Standup Bot - Initialize</li>
+  <li>Get Company by Name</li>
+  <li>Receive updates when a new account is added by an admin in ActiveCampaign</li>
+  <li>Standup Bot - Read Config</li>
+  <li>Create an deal in Pipedrive</li>
+  <li>Get DNS entries</li>
+  <li>Standup Bot - Override Config</li>
+  <li>Send daily weather updates via a message in Line</li>
+  <li>Standup Bot - Worker</li>
+  <li>Verify phone numbers</li>
+  <li>Archive empty pages in Notion Database</li>
+  <li>Receive updates for all changes in Pipedrive</li>
+  <li>Send daily weather updates via a message using the Gotify node</li>
+  <li>Get all the contacts from GetResponse and update them</li>
+  <li>Receive updates for changes in the specified list in Trello</li>
+  <li>Syncro Alert to OpsGenie</li>
+  <li>Google Calendar to Slack Status & Philips Hue</li>
+  <li>Create, update, and get an entry in Strapi</li>
+  <li>Get details of a forum in Disqus</li>
+  <li>workflow 119</li>
+  <li>Create a client in Harvest</li>
+  <li>Create Email Campaign From LinkedIn Post Interactions</li>
+  <li>Automate assigning GitHub issues</li>
+  <li>Steam + CF Report</li>
+  <li>Track an event in Segment</li>
+  <li>Create a ticket in Zendesk</li>
+  <li>Create a contact in Drift</li>
+  <li>Send a private message on Zulip</li>
+  <li>Create, update, and get a profile in Humantic AI</li>
+  <li>Create a user profile in Vero</li>
+  <li>Create a company in Salesmate</li>
+  <li>Get information about a company with UpLead</li>
+  <li>Get all the tasks in Flow</li>
+  <li>Receive a Mattermost message when a user updates their profile on Facebook</li>
+  <li>Analyze the sentiment of feedback and send a message on Mattermost</li>
+  <li>Receive updates for specified tasks in Flow</li>
+  <li>Receive updates for the position of the ISS every minute and push it to a database</li>
+  <li>Receive messages for an ActiveMQ queue via AMQP Trigger</li>
+  <li>Get new time entries from Toggl</li>
+  <li>Get today's date and day using the Function node</li>
+  <li>Assign values to variables using the Set node</li>
+  <li>Send daily weather updates via a push notification using Spontit</li>
+  <li>Translate cocktail instructions using LingvaNex</li>
+  <li>Send financial metrics monthly to Mattermost</li>
+  <li>OpenAI-model-examples</li>
+  <li>Receive a Mattermost message when new data gets added to Airtable</li>
+  <li>Create, update and get records in Quick Base</li>
+  <li>Get synonyms of a German word</li>
+  <li>Create, update, and get an incident on PagerDuty</li>
+  <li>Receive the weather information of any city</li>
+  <li>Create, update and get a case in TheHive</li>
+  <li>Analyze a URL and get the job details using the Cortex node</li>
+  <li>Write a file to the host machine</li>
+  <li>Create a table and insert data into it</li>
+  <li>Receive updates when an event occurs in TheHive</li>
+  <li>Create a channel, invite users to the channel, post a message, and upload a file</li>
+  <li>Create, update and get a user from Iterable</li>
+  <li>Receive messages from a topic and send an SMS</li>
+  <li>Create a short URL and get the statistics of the URL</li>
+  <li>Smart Factory Data Generator</li>
+  <li>Smart Factory Use Case</li>
+  <li>Create, update, and get a post in Ghost</li>
+  <li>Insert and update data in Airtable</li>
+  <li>Create a table, and insert and update data in the table in Snowflake</li>
+  <li>Create and update a channel, and send a message on Twist</li>
+  <li>Send the Astronomy Picture of the day daily to a Telegram channel</li>
+  <li>Get messages with a certain label, remove the label, and add a new one</li>
+  <li>Get the logo, icon, and information of a company and store it in Airtable</li>
+  <li>Telegram AI-bot</li>
+  <li>Create a channel, add a member, and post a message to the channel</li>
+  <li>Create, update, and get a document in Google Cloud Firestore</li>
+  <li>Discord AI bot</li>
+  <li>Send updates about the position of the ISS every minute to a topic in RabbitMQ</li>
+  <li>Receive messages from a queue via RabbitMQ and send an SMS</li>
+  <li>Create, update and get a product from WooCommerce</li>
+  <li>Send a message on Mattermost when an order is created in WooCommerce</li>
+  <li>Create, update, and get a subscriber using the e-goi node</li>
+  <li>Create a screenshot of a website and send it to a telegram channel</li>
+  <li>Create, add an attachment, and send a draft using the Microsoft Outlook node</li>
+  <li>BillBot</li>
+  <li>Store the output of a phantom in Airtable</li>
+  <li>Get analytics of a website and store it Airtable</li>
+  <li>Add a datapoint to Beeminder when new activity is added to Strava</li>
+  <li>Create, update and get a contact using the SendGrid node</li>
+  <li>Create, update, and get a user using the G Suite Admin node</li>
+  <li>Congratulations Workflow</li>
+  <li>Check To Do on Notion and send message on Slack</li>
+  <li>Email body parser by aprenden8n.com</li>
+  <li>A workflow with the Twilio node</li>
+  <li>Moving metrics from Google Sheets to Orbit</li>
+  <li>typeform feedback workflow</li>
+  <li>Loading data into a spreadsheet</li>
+  <li>Updating Shopify tags on Onfleet events</li>
+  <li>Create a QuickBooks invoice on a new Onfleet Task creation</li>
+  <li>Create an Onfleet task when a file in Google Drive is updated</li>
+  <li>[n8n] YouTube Channel Advanced RSS Feeds Generator</li>
+  <li>Dynamic credentials using expressions</li>
+  <li>Unsubscribe Mautic contacts from automated unsubscribe emails</li>
+  <li>TOTP VALIDATION (WITHOUT CREATING CREDENTIAL)</li>
+  <li>Backup workflows to git repository</li>
+  <li>Google Maps Email Scraper Template</li>
+  <li>Import Productboard Notes, Companies and Features into Snowflake</li>
+  <li>Linear Project Status and End Date to Productboard feature Sync</li>
+  <li>Transform Image to Lego Style Using Line and Dall-E</li>
+  <li>Automate Drive-To-Store Lead Generation System (with coupon) on SuiteCRM</li>
+  <li>Generate Image Workflow</li>
+  <li>Automatically Update YouTube Video Descriptions with Inserted Text</li>
+  <li>AccountCraft WhatsApp Automation - Infridet</li>
+  <li>Prevent concurrent workflow runs using Redis</li>
+  <li>A Very Simple Human in the Loop Email Response System Using AI and IMAP</li>
+  <li>A B Split Testing</li>
+  <li>Actioning Your Meeting Next Steps using Transcripts and AI</li>
+  <li>Adaptive RAG</li>
+  <li>Add positive feedback messages to a table in Notion</li>
+  <li>Add a event to Calender</li>
+  <li>Add Beehiiv newsletter subscribers from Gumroad sales</li>
+  <li>Add new clients from Notion to Clockify</li>
+  <li>Add new incoming emails to a Google Sheets spreadsheet as a new row.</li>
+  <li>Add task to tasklist</li>
+  <li>Add text to an image downloaded from the internet</li>
+  <li>Addon for Workflow Nodes Update Check Template</li>
+  <li>Advanced AI Demo (Presented at AI Developers #14 meetup)</li>
+  <li>Advanced AI Powered Document Parsing & Text Extraction with Llama Parse</li>
+  <li>Advanced YouTube RSS Feed Buddy for Your Favorite Channels</li>
+  <li>Agent Access Control Template</li>
+  <li>Agent Milvus tool</li>
+  <li>Agentic Telegram AI bot with with LangChain nodes and new tools</li>
+  <li>Agentic Telegram AI bot with LangChain nodes and new tools</li>
+  <li>AhP1Fgv0eCrh9Jxs AI-Generated Summary Block for WordPress Posts - with OpenAI, WordPress,Google Sheets& Slack</li>
+  <li>Ahrefs Keyword Research Workflow</li>
+  <li>AI Agent   Google calendar assistant using OpenAI</li>
+  <li>AI agent chat</li>
+  <li>AI agent for Instagram DM inbox. Manychat + Open AI integration</li>
+  <li>AI Agent for project management and meetings with Airtable and Fireflies</li>
+  <li>AI Agent for realtime insights on meetings</li>
+  <li>AI agent that can scrape webpages</li>
+  <li>AI Agent to chat with Airtable and analyze data</li>
+  <li>AI Agent To Chat With Files In Supabase Storage</li>
+  <li>AI Agent to chat with Supabase PostgreSQL DB</li>
+  <li>AI Agent to chat with you Search Console Data, using OpenAI and Postgres</li>
+  <li>AI Agent with Ollama for current weather and wiki</li>
+  <li>AI Automated HR Workflow for CV Analysis and Candidate Evaluation</li>
+  <li>AI chat with any data source (using the n8n workflow tool)</li>
+  <li>AI chatbot that can search the web</li>
+  <li>AI Crew to Automate Fundamental Stock Analysis - Q&A Workflow</li>
+  <li>AI Customer feedback sentiment analysis</li>
+  <li>AI Data Extraction with Dynamic Prompts and Airtable</li>
+  <li>AI Data Extraction with Dynamic Prompts and Baserow</li>
+  <li>AI Fitness Coach Strava Data Analysis and Personalized Training Insights</li>
+  <li>AI Powered Web Scraping with Jina, Google Sheets and OpenAI   the EASY way</li>
+  <li>AI Social Media Caption Creator creates social media post captions in Airtable</li>
+  <li>AI Voice Chat using Webhook, Memory Manager, OpenAI, Google Gemini & ElevenLabs</li>
+  <li>AI Voice Chatbot with ElevenLabs & OpenAI for Customer Service and Restaurants</li>
+  <li>AI web researcher for sales</li>
+  <li>AI Youtube Trend Finder Based On Niche</li>
+  <li>AI  Ask questions about any data source (using the n8n workflow retriever)</li>
+  <li>AI  Summarize podcast episode and enhance using Wikipedia</li>
+  <li>AI Agent -Cv Resume-Automated Screening,Sorting, Rating and Tracker System</li>
+  <li>AI Agent  for n8n Creators Leaderboard - Find Popular Workflows</li>
+  <li>AI Agent Chatbot +LONG TERM Memory+Note Storage+ Telegram</li>
+  <li>AI Agent Chatbot with Jina.ai Webpage Scraper</li>
+  <li>AI Agent to chat with you Search Console Data, using OpenAI and Postgres</li>
+  <li>AI Agent with charts capabilities using OpenAI Structured Output</li>
+  <li>AI Automated TikTok Youtube Shorts Reels Generator</li>
+  <li>AI Customer-Support Assistant ·WhatsApp Ready· Works for Any Business</li>
+  <li>AI CV Screening Workflow</li>
+  <li>AI Document Assistant via Telegram + Supabase</li>
+  <li>AI Email processing autoresponder with approval (Yes No)</li>
+  <li>AI Logo Sheet Extractor to Airtable</li>
+  <li>AI Phone Agent with RetellAI</li>
+  <li>AI Powered RAG Chatbot for Your Docs +Google Drive+Gemini+ Qdrant</li>
+  <li>AI Powered Reporting +Gmail+ Telegram</li>
+  <li>AI powered SEO Keyword Research Automation - The vibe Marketer</li>
+  <li>AI Social Media Caption Creator</li>
+  <li>AI Social Media Publisher from WordPress</li>
+  <li>AI Social Video Generator with GPT-4,Kling&Blotato—Auto-Post to Instagram, Facebook,, TikTok,Twitter&Pinterest- vide</li>
+  <li>AI T-Shirt Redesign Workflow from any Mockup Image</li>
+  <li>AI Voice Chat using Webhook, Memory Manager, OpenAI,Google Gemini& ElevenLabs</li>
+  <li>AI-Driven Lead Management and Inquiry Automation with ERPNext & n8n</li>
+  <li>AI-Driven WooCommerce Product Importer with SEO</li>
+  <li>AI-Generated Summary Block for WordPress Posts</li>
+  <li>AI-Powered Candidate Shortlisting Automation for ERPNext</li>
+  <li>AI-Powered Children s Arabic Storytelling on Telegram</li>
+  <li>AI-Powered Children s English Storytelling on Telegram with OpenAI</li>
+  <li>AI-Powered Email Automation for Business  Summarize & Respond with RAG</li>
+  <li>AI-powered email processing autoresponder and response approval (Yes No)</li>
+  <li>AI-Powered Information Monitoring with OpenAI, Google Sheets, Jina AI and Slack</li>
+  <li>AI-Powered RAG Workflow For Stock Earnings Report Analysis</li>
+  <li>AI-Powered Social Media Amplifier</li>
+  <li>AI-powered WooCommerce Support-Agent</li>
+  <li>AI-Powered Information Monitoring with OpenAI, Google Sheets, Jina AI and Slack</li>
+  <li>AI-Powered Research with Jina AI Deep Search</li>
+  <li>AI-Powered Short-Form Video Generator with OpenAI, Flux, Kling, and ElevenLabs and upload to all social networks</li>
+  <li>AI-Powered WhatsApp Chatbot for Text, Voice,Images& PDFs</li>
+  <li>airflow dag run</li>
+  <li>AirQuality Scheduler</li>
+  <li>Airtable Batch Processing</li>
+  <li>Airtable markdown to html</li>
+  <li>Airtop Web Agent</li>
+  <li>ALL unique nodes</li>
+  <li>All-in-One Telegram Baserow AI Assistant 🤖🧠 Voice Photo Save Notes Long Term Mem</li>
+  <li>Amazon Ads AI Optimization</li>
+  <li>Amazon keywords</li>
+  <li>Amazon Product Price Tracker</li>
+  <li>Analyse papers from Hugging Face with AI and store them in Notion</li>
+  <li>Analyze & Sort Suspicious Email Contents with ChatGPT</li>
+  <li>Analyze feedback and send a message on Mattermost</li>
+  <li>Analyze feedback using AWS Comprehend and send it to a Mattermost channel</li>
+  <li>Analyze Suspicious Email Contents with ChatGPT Vision</li>
+  <li>Analyze tradingview.com charts with Chrome extension, N8N and OpenAI</li>
+  <li>Analyze email headers for IPs and spoofing  3</li>
+  <li>Analyze Reddit Posts with AI to Identify Business Opportunities</li>
+  <li>Analyze Screenshots with AI</li>
+  <li>Analyze YouTube Video for Summaries,Transcripts&Content+ Google Gemini AI</li>
+  <li>AnbedV2Ntx97sfed Extract & Summarize Bing Copilot Search Results with Gemini AI and Bright Data</li>
+  <li>Angie, Personal AI Assistant with Telegram Voice and Text</li>
+  <li>anomaly detection][1 2- KNN classification]Batch upload dataset to Qdrant(crops dataset)</li>
+  <li>Anomaly detection tool (crops dataset)</li>
+  <li>API Schema Extractor</li>
+  <li>Append, lookup, update, and read data from a Google Sheets spreadsheet</li>
+  <li>Archive (delete) duplicate items from a Notion database</li>
+  <li>Ask a human for help when the AI doesn t know the answer</li>
+  <li>Ask questions about a PDF using AI</li>
+  <li>Attachments Gmail to drive and google sheets</li>
+  <li>Auth0 User Login</li>
+  <li>Author and Publish Blog Posts From Google Sheets</li>
+  <li>Auto Categorise Outlook Emails with AI</li>
+  <li>Auto - Resume Disabled Workflows</li>
+  <li>Auto categorize wordpress template</li>
+  <li>Auto Knowledge Base Article Generator</li>
+  <li>Auto WordPress Blog Generator (GPT +Postgres+ WP Media)</li>
+  <li>Auto-Categorize blog posts in wordpress using A.I.</li>
+  <li>AutoClip – Automatically Generate Video Clips and Upload to YouTube</li>
+  <li>Auto-create and publish AI social videos with Telegram, GPT-4 and Blotato</li>
+  <li>Auto-label incoming Gmail messages with AI nodes</li>
+  <li>Automate Blog Creation in Brand Voice with AI</li>
+  <li>Automate Competitor Research with Exa.ai, Notion and AI Agents</li>
+  <li>Automate Content Generator for WordPress with DeepSeek R1</li>
+  <li>Automate Customer Support Issue Resolution using AI Text Classifier</li>
+  <li>Automate Image Validation Tasks using AI Vision</li>
+  <li>Automate LinkedIn Outreach with Notion and OpenAI</li>
+  <li>Automate Pinterest Analysis & AI-Powered Content Suggestions With Pinterest API</li>
+  <li>Automate Sales Meeting Prep with AI & APIFY Sent To WhatsApp</li>
+  <li>Automate Screenshots with URLbox & Analyze them with AI</li>
+  <li>Automate SIEM Alert Enrichment with MITRE ATT&CK, Qdrant & Zendesk in n8n</li>
+  <li>Automate testimonials in Strapi with n8n</li>
+  <li>Automate Your RFP Process with OpenAI Assistants</li>
+  <li>Automate Blog Content Creation with GPT-4,Perplexity& WordPress</li>
+  <li>Automate Content Generator for WordPress with DeepSeek R1</li>
+  <li>Automate Etsy Data Mining with Bright Data Scrape & Google Gemini</li>
+  <li>Automate Event Creation in Google Calendar from Google Sheets</li>
+  <li>Automate Figma Versioning and Jira Updates with n8n Webhook Integration</li>
+  <li>Automate Google Analytics Reporting - AlexK1919</li>
+  <li>Automate LinkedIn Posts with AI</li>
+  <li>Automate PDF Image Extraction & Analysis with GPT-4o and Google Drive</li>
+  <li>Automate Pinterest Analysis & AI-Powered Content Suggestions With Pinterest API</li>
+  <li>Automate Your Customer Service With WhatsApp Business Cloud & Asana</li>
+  <li>Automated AI image analysis and response via Telegram</li>
+  <li>Automated End-to-End Fine-Tuning of OpenAI Models with Google Drive Integration</li>
+  <li>Automated Hugging Face Paper Summary Fetching & Categorization Workflow</li>
+  <li>Automated Content SEO Audit Report</li>
+  <li>Automated Daily Weather Data Fetcher and Storage</li>
+  <li>Automated Form Submission Data Storage in Airtable</li>
+  <li>Automated Image Metadata Tagging</li>
+  <li>Automated Image Metadata Tagging (Community Node)</li>
+  <li>Automated PDF to HTML Conversion</li>
+  <li>Automated Research Report Generation with OpenAI, Wikipedia, Google Search, and Gmail Telegram</li>
+  <li>Automated Resume Review System Using OpenAI + Google Sheets</li>
+  <li>Automated Social Media Content Publishing Factory + System Prompt Composition</li>
+  <li>automated social media content publishing factory system prompt composition</li>
+  <li>Automated Work Attendance with Location Triggers</li>
+  <li>Automated Workflow Backups to Google Drive</li>
+  <li>Automatic Background Removal for Images in Google Drive</li>
+  <li>Automatically Send Daily Meeting List to Telegram</li>
+  <li>Automating Betting Data Retrieval with TheOddsAPI and Airtable</li>
+  <li>Automatizacion X</li>
+  <li>Autonomous AI crawler</li>
+  <li>AutoQoutesV2 template</li>
+  <li>Auto-Tag Blog Posts in WordPress with AI</li>
+  <li>Auto-Tag Blog Posts in WordPress with AI</li>
+  <li>Backup n8n Workflows to Bitbucket</li>
+  <li>Backup Squarespace code Injections to Github</li>
+  <li>Backup workflows to git repository on Gitea</li>
+  <li>BambooHR AI-Powered Company Policies and Benefits Chatbot</li>
+  <li>BambooHR AI-Powered Company Policies and Benefits Chatbot</li>
+  <li>Baserow markdown to html</li>
+  <li>bash-dash telegram</li>
+  <li>Basic Automatic Gmail Email Labelling with OpenAI and Gmail API</li>
+  <li>Basic PDF Digital Sign Service</li>
+  <li>Bitrix24 Chatbot Application Workflow example with Webhook Integration</li>
+  <li>Bitrix24 Chatbot Application Workflow example with Webhook Integration</li>
+  <li>Blockchain DEX Screener Insights Agent</li>
+  <li>Blog Automation TEMPLATE</li>
+  <li>modelo do chatbot</li>
+  <li>Brand Content Extract,Summarize& Sentiment Analysis with Bright Data</li>
+  <li>Breakdown Documents into Study Notes using Templating MistralAI and Qdrant</li>
+  <li>Build a Financial Documents Assistant using Qdrant and Mistral.ai</li>
+  <li>Build a Tax Code Assistant with Qdrant, Mistral.ai and OpenAI</li>
+  <li>Build an OpenAI Assistant with Google Drive Integration</li>
+  <li>Build Your Own Image Search Using AI Object Detection, CDN and ElasticSearchBuild Your Own Image Search Using AI Object Detection, CDN and ElasticSearch</li>
+  <li>Build a Chatbot, Voice Agent and Phone Agent with Voiceflow, Google Calendar and RAG</li>
+  <li>Build a Phone Agent to qualify outbound leads and inbound calls with RetellAI -vide</li>
+  <li>Build a Web Search Chatbot with GPT-4o and MCP Brave Search</li>
+  <li>Build an MCP server with Airtable</li>
+  <li>Build an MCP Server with Google Calendar</li>
+  <li>Build an OpenAI Assistant with Google Drive Integration</li>
+  <li>Build Custom AI Agent with LangChain &Gemini(Self-Hosted)</li>
+  <li>Build your first AI MCP Server</li>
+  <li>Building RAG Chatbot for Movie Recommendations with Qdrant and Open AI</li>
+  <li>Building Your First WhatsApp Chatbot (1)</li>
+  <li>Building Your First WhatsApp Chatbot</li>
+  <li>Building RAG Chatbot for Movie Recommendations with Qdrant and Open AI</li>
+  <li>Business Canvas Generator</li>
+  <li>Business WhatsApp AI RAG Chatbot</li>
+  <li>Calculate the Centroid of a Set of Vectors</li>
+  <li>Calendar Agent</li>
+  <li>Capture Website Screenshots with Bright Data Web Unlocker and Save to Disk</li>
+  <li>Chat Assistant (OpenAI assistant) with Postgres Memory And API Calling Capabalities</li>
+  <li>Chat with a Google Sheet using AI</li>
+  <li>Chat with GitHub API Documentation  RAG-Powered Chatbot with Pinecone & OpenAI</li>
+  <li>Chat with local LLMs using n8n and Ollama</li>
+  <li>Chat with OpenAI Assistant (by adding a memory)</li>
+  <li>Chat with OpenAIs GPT via a simple Telegram Bot</li>
+  <li>Chat with PDF docs using AI (quoting sources)</li>
+  <li>Chat with Postgresql Database</li>
+  <li>Chat with your event schedule from Google Sheets in Telegram</li>
+  <li>Chat with local LLMs using n8n and Ollama</li>
+  <li>Chat with Postgresql Database</li>
+  <li>Chatbot AI</li>
+  <li>ChatGPT Automatic Code Review in Gitlab MR</li>
+  <li>cheems</li>
+  <li>Chinese Translator</li>
+  <li>chrome extension backend with AI</li>
+  <li>Classify lemlist replies using OpenAI and automate reply handling</li>
+  <li>Classify new bugs in Linear with OpenAI s GPT-4 and move them to the right team</li>
+  <li>Clockify Backup Template</li>
+  <li>Clockify to Syncro</li>
+  <li>ClockifyBlockiaWorkflow</li>
+  <li>Clone n8n Workflows between Instances using n8n API</li>
+  <li>Code Review workflow</li>
+  <li>CoinMarketCap AI Data Analyst Agent</li>
+  <li>CoinMarketCap Crypto Agent Tool</li>
+  <li>CoinMarketCap DEXScan Agent Tool</li>
+  <li>CoinMarketCap Exchange and Community Agent Tool</li>
+  <li>Coinmarketcap Price Agent</li>
+  <li>Colombian Invoices Processing</li>
+  <li>comentarios automaticos</li>
+  <li>Compare 2 SQL datasets</li>
+  <li>Complete business WhatsApp AI-Powered RAG Chatbot using OpenAI</li>
+  <li>complete guide to setting up and generating totp codes in n8n</li>
+  <li>Complete Guide to Setting Up and Generating TOTP Codes in n8n 🔐</li>
+  <li>Complete Youtube</li>
+  <li>Compose reply draft in Gmail with OpenAI Assistant</li>
+  <li>Configure your own Image Creation API Using OpenAI DALLE-3</li>
+  <li>Confluence Page AI Powered Chatbot</li>
+  <li>Connect Airtable Contacts to telli for Automated AI Voice Call Scheduling</li>
+  <li>Contact Agent</li>
+  <li>Contact Form Text Classifier for eCommerce</li>
+  <li>Content Creator Agent</li>
+  <li>Conversational Interviews with AI Agents and n8n Forms</li>
+  <li>Conversion Rate Optimizer</li>
+  <li>Convert text to speech with OpenAI</li>
+  <li>Convert URL HTML to Markdown Format and Get Page Links</li>
+  <li>Convert image from jpg png to webp</li>
+  <li>Convert Parquet, Avro,ORC& Feather via ParquetReader to JSON</li>
+  <li>Convert Squarespace Profiles to Shopify Customers in Google Sheets</li>
+  <li>Convert YouTube Videos into SEO Blog Posts</li>
+  <li>Create a Branded AI-Powered Website Chatbot</li>
+  <li>Create a Google Analytics Data Report with AI and sent it to E-Mail and Telegram</li>
+  <li>Create dynamic Twitter profile banner</li>
+  <li>create e-mail responses with fastmail and OpenAI</li>
+  <li>Create, update, and get a profile in Humantic AI</li>
+  <li>Create AI-Ready Vector Datasets for LLMs with Bright Data,Gemini& Pinecone</li>
+  <li>Create Animated Stories using GPT-4o-mini, Midjourney, Kling and Creatomate API</li>
+  <li>Create Custom Presentations per Lead</li>
+  <li>Create entry in Mailchimp from Airtable</li>
+  <li>Create Google Creds</li>
+  <li>Create Nextcloud Deck card from email</li>
+  <li>Create Threads on Bluesky</li>
+  <li>Create Unique Jira tickets from Splunk alerts</li>
+  <li>Creating a AI Slack Bot with Google Gemini</li>
+  <li>Credentials Transfer</li>
+  <li>Crypto News & Sentiment</li>
+  <li>Custom LangChain agent written in JavaScript</li>
+  <li>Customer Insights with Qdrant, Python and Information Extractor</li>
+  <li>Customer Support Channel and Ticketing System with Slack and Linear</li>
+  <li>Customer and Sales Support</li>
+  <li>CV Resume PDF Parsing with Multimodal Vision AI</li>
+  <li>CV Screening with OpenAI</li>
+  <li>CV Evaluation - Error Handling</li>
+  <li>Daily meetings summarization with Gemini AI</li>
+  <li>Daily Podcast Summary</li>
+  <li>Daily AI News Translation & Summary with GPT-4 and Telegram Delivery</li>
+  <li>Daily Journal Reminder</li>
+  <li>Daily meetings summarization with Gemini AI</li>
+  <li>Daily poems in Telegram</li>
+  <li>Daily Text Affirmations</li>
+  <li>Daylight Saving Time Notification</li>
+  <li>Deduplicate Scraping AI Grants for Eligibility using AI</li>
+  <li>DeepSeek AI Agent +Telegram+ LONG TERM Memory 🧠</li>
+  <li>DeepSeek v3.1</li>
+  <li>DeepSeek V3 Chat & R1 Reasoning Quick Start</li>
+  <li>Detect hallucinations using specialised Ollama model bespoke-minicheck</li>
+  <li>Detect toxic language in Telegram messages</li>
+  <li>Dialpad to Syncro</li>
+  <li>DigialOceanUpload</li>
+  <li>Discord AI-powered bot</li>
+  <li>Discord Agent</li>
+  <li>Discord Intro</li>
+  <li>Discord MCP Chat Agent</li>
+  <li>Discord MCP Server</li>
+  <li>docker-immich-deploy</li>
+  <li>Docsify example</li>
+  <li>Dsp agent (1)</li>
+  <li>DSP Agent</li>
+  <li>DSP Certificate w  Google Forms</li>
+  <li>dub.co URL Shortener</li>
+  <li>Dynamic Form with AI</li>
+  <li>Dynamically generate a webpage from user request using OpenAI Structured Output (1)</li>
+  <li>Dynamically generate a webpage from user request using OpenAI Structured Output</li>
+  <li>Dynamically create tables in Airtable for your Webflow form submissions</li>
+  <li>Dynamically generate HTML page from user request using OpenAI Structured Output</li>
+  <li>Dynamically switch between LLMs Template</li>
+  <li>Easily Compare LLMs Using OpenAI and Google Sheets</li>
+  <li>Easy Image Captioning with Gemini 1.5 Pro</li>
+  <li>Easy Wordpress Content Creation from PDF Document + Human In The Loop with Gmail Approval</li>
+  <li>Eay Google analytics template</li>
+  <li>Effortless Email Management with AI-Powered Summarization & Review</li>
+  <li>Effortless Email Management with AI</li>
+  <li>Email Subscription Service with n8n Forms, Airtable and AI (1)</li>
+  <li>Email Subscription Service with n8n Forms, Airtable and AI</li>
+  <li>Email Summary Agent</li>
+  <li>Email</li>
+  <li>Email Agent</li>
+  <li>Email AI Auto-responder. Summerize and send email</li>
+  <li>e-mail Chatbot with both semantic and structured RAG, using Telegram and Pgvector</li>
+  <li>Email Classification</li>
+  <li>Email mailbox as Todoist tasks</li>
+  <li>Email Summary Agent</li>
+  <li>Email verification with Icypeas (single)</li>
+  <li>Enhance Customer Chat by Buffering Messages with Twilio and Redis</li>
+  <li>Enhance Security Operations with the Qualys Slack Shortcut Bot! (1)</li>
+  <li>Enhance Security Operations with the Qualys Slack Shortcut Bot!</li>
+  <li>Enhance Chat Responses with Real-Time Search Data via Bright Data & Gemini AI</li>
+  <li>Enrich FAQ sections on your website pages at scale with AI</li>
+  <li>Enrich Pipedrive s Organization Data with OpenAI GPT-4o & Notify it in Slack</li>
+  <li>Enrich Property Inventory Survey with Image Recognition and AI Agent</li>
+  <li>Entra Contacts to Zammad User Sync</li>
+  <li>Entra User to Zammad User Sync</li>
+  <li>ERP AI chatbot for Odoo sales module</li>
+  <li>Error Alert and Summarizer</li>
+  <li>Error Handler send Telegram</li>
+  <li>Essential Multipage Website Scraper with Jina.ai</li>
+  <li>ETL pipeline for text processing</li>
+  <li>Example - Backup n8n to Nextcloud</li>
+  <li>Exponential Backoff for Google APIs</li>
+  <li>Export Zammad Objects Users, Roles, Groups and Organizations to Excel</li>
+  <li>ext to Speech (OpenAI)</li>
+  <li>Extract and process information directly from PDF using Claude and Gemini</li>
+  <li>Extract data from resume and create PDF with Gotenberg</li>
+  <li>Extract Information from a Logo Sheet using forms, AI, Google Sheet and Airtable</li>
+  <li>Extract insights & analyse YouTube comments via AI Agent chat</li>
+  <li>Extract license plate number from image uploaded via an n8n form</li>
+  <li>Extract personal data with self-hosted LLM Mistral NeMo</li>
+  <li>Extract spending history from gmail to google sheet</li>
+  <li>Extract text from PDF and image using Vertex AI (Gemini) into CSV</li>
+  <li>Extract & Summarize Indeed Company Info with Bright Data and Google Gemini</li>
+  <li>Extract & Summarize Wikipedia Data with Bright Data and Gemini AI</li>
+  <li>Extract & Summarize Yelp Business Review with Bright Data and Google Gemini</li>
+  <li>Extract Amazon Best Seller Electronic Information with Bright Data and Google Gemini</li>
+  <li>Extract And Decode Google News RSS URLs to Clean Article Links</li>
+  <li>Extract Business Leads from Google Maps with Dumpling AI to Google Sheets</li>
+  <li>Extract personal data with a self-hosted LLM Mistral NeMo</li>
+  <li>Extract spend details (template)</li>
+  <li>Extract text from PDF and image using Vertex AI (Gemini) into CSV</li>
+  <li>Extranet Releases</li>
+  <li>Fetch Dynamic Prompts from GitHub and Auto-Populate n8n Expressions in Prompt</li>
+  <li>Fetch Squarespace Blog &Event Collections to Google Sheets </li>
+  <li>Fetch the Most Recent Document from Google Drive</li>
+  <li>FetchGithubIssues</li>
+  <li>Figurine Orthographic Views with Midjourney and GPT-4o-Image API</li>
+  <li>Find the Best Local Ollama Vision Models by Comparison</li>
+  <li>Find Top Keywords</li>
+  <li>Fine-tuning with OpenAI models</li>
+  <li>Flux AI Image Generator</li>
+  <li>Flux Dev Image Generation (Fal.ai) to Google Drive</li>
+  <li>Flux Dev Image Generation Fal.ai</li>
+  <li>FLUX-fill standalone</li>
+  <li>Force AI to use a specific output format</li>
+  <li>Form with Dynamic Dropdown Field</li>
+  <li>Format US Phone Number</li>
+  <li>Forward Filtered Gmail Notifications to Telegram Chat</li>
+  <li>Forward Netflix emails to multiple email addresses with GMail and Mailjet</li>
+  <li>Fully automated Video Captions generation with json2video</li>
+  <li>Gemini AI Video Analysis</li>
+  <li>General 3D Presentation</li>
+  <li>Generate 9 16 Images from Content and Brand Guidelines</li>
+  <li>Generate audio from text using OpenAI and Webhook   Text to Speech Workflow</li>
+  <li>Generate Instagram Content from Top Trends with AI Image Generation</li>
+  <li>Generate SEO Seed Keywords Using AI</li>
+  <li>Generate SQL queries from schema only - AI-powered</li>
+  <li>Generate Text-to-Speech Using Elevenlabs via API</li>
+  <li>Generate 360° Virtual Try-on Videos for Clothing with Kling API</li>
+  <li>Generate AI-Ready llms.txt Files from Screaming Frog Website Crawls</li>
+  <li>Generate audio from text using OpenAI - text-to-speech Workflow</li>
+  <li>Generate Company Stories from LinkedIn with Bright Data & Google Gemini</li>
+  <li>Generate Exam Questions</li>
+  <li>Generate google meet links in slack</li>
+  <li>Generate Graphic Wallpaper with Midjourney, GPT-4o-mini and Canvas APIs</li>
+  <li>Generate Instagram Content from Top Trends with AI Image Generation</li>
+  <li>Generate Leads with Google Maps - AlexK1919</li>
+  <li>Generate New Keywords with Search Volumes</li>
+  <li>Generate SEO-Optimized WordPress Content with Perplexity Research</li>
+  <li>Generate SQL queries from schema only - AI-powered</li>
+  <li>Generating Image Embeddings via Textual Summarisation</li>
+  <li>Get Airtable data via AI and Obsidian Notes</li>
+  <li>get a web page</li>
+  <li>Get Airtable data in Obsidian Notes</li>
+  <li>Get all orders in Squarespace to Google Sheets</li>
+  <li>Get all scaleway server info copy</li>
+  <li>get Comments from Facebook Page</li>
+  <li>Get event triggered notifications   updates on preferred messaging channels with TwentyCRM</li>
+  <li>Get Long Lived Facebook User or Page Access Token</li>
+  <li>Get PDF with JSReport</li>
+  <li>getBible Query v1.0</li>
+  <li>Github Releases</li>
+  <li>GitLab MR Auto-Review & Risk Assessment</li>
+  <li>Give Your AI Agent Chatbot Long Term Memory Tools Router</li>
+  <li>Gmail AI Auto-Responder  Create Draft Replies to incoming emails</li>
+  <li>Gmail MCP Server</li>
+  <li>Gmail to Vector Embeddings with PGVector and Ollama</li>
+  <li>Google Cal to Zoom meeting</li>
+  <li>Google Calendar Event Reminder</li>
+  <li>google calendar to outlook</li>
+  <li>Google Drive Automation</li>
+  <li>google drive to instagram, tiktok and youtube</li>
+  <li>Google Maps FULL</li>
+  <li>Google Page Entity Extraction Template</li>
+  <li>Google Search Engine Results Page Extraction with Bright Data</li>
+  <li>Google Sheet to Mailchimp</li>
+  <li>Google Site Index - sitemap.xml example</li>
+  <li>Google Trend Data Extract,Summarization with Bright Data& Google Gemini</li>
+  <li>GoogleSheets MySQL Integration</li>
+  <li>Gratitude Jar Reminder</li>
+  <li>GROQ LLAVA V1.5 7B</li>
+  <li>gumroad sale trigger</li>
+  <li>Hacker News Job Listing Scraper and Parser</li>
+  <li>Hacker News Throwback Machine - See What Was Hot on This Day, Every Year!</li>
+  <li>Hacker News to Video Content</li>
+  <li>Hacker News to Video Template - AlexK1919</li>
+  <li>Handling Appointment Leads and Follow-up With Twilio, Cal.com and AI</li>
+  <li>Handling Job Application Submissions with AI and n8n Forms</li>
+  <li>HDW Lead Geländewagen</li>
+  <li>High-Level Service Page SEO Blueprint Report</li>
+  <li>hn who is hiring scrape</li>
+  <li>Host Your Own AI Deep Research Agent with n8n, Apify and OpenAI o3</li>
+  <li>How to automatically import CSV files into postgres</li>
+  <li>HR & IT Helpdesk Chatbot with Audio Transcription</li>
+  <li>HR Job Posting and Evaluation with AI</li>
+  <li>HR & IT Helpdesk Chatbot with Audio Transcription</li>
+  <li>HR Job Posting and Evaluation with AI</li>
+  <li>HR-focused automation pipeline with AI</li>
+  <li>Hugging Face  to Notion</li>
+  <li>ICP Company Scoring</li>
+  <li>Image Creation with OpenAI and Telegram</li>
+  <li>Image Generation API</li>
+  <li>Image to license plate number</li>
+  <li>Image-Based Data Extraction API using Gemini AI</li>
+  <li>Image-to-3D</li>
+  <li>ImapEmail, XmlToJson, POST-HTTP-Request</li>
+  <li>Import CSV from URL to Excel</li>
+  <li>Import multiple CSV to GoogleSheet</li>
+  <li>Import multiple Manufacturers from Google Sheets to Shopware 6</li>
+  <li>Import Odoo Product Images from Google Drive</li>
+  <li>IMVycpyABaGuD1hq Analyze Crowdstrike Detections  search for IOCs in VirusTotal  create a ticket in Jira and post a message in Slack</li>
+  <li>Indeed Company Data Scraper & Summarization with Airtable, Bright Data and Google Gemini</li>
+  <li>inkedin to Airtable</li>
+  <li>INSEE Enrichment for Agile CRM</li>
+  <li>Insert and retrieve documents</li>
+  <li>InstaTest</li>
+  <li>Integrating AI with Open-Meteo API for Enhanced Weather Forecasting</li>
+  <li>Integrating AI with Open-Meteo API for Enhanced Weather Forecasting</li>
+  <li>Intelligent Web Query and Semantic Re-Ranking Flow using Brave and Google Gemini</li>
+  <li>Intelligent Web Query and Semantic Re-Ranking Flow</li>
+  <li>Introduction to the HTTP Tool</li>
+  <li>Inverview Scheduler</li>
+  <li>Invoice data extraction with LlamaParse and OpenAI (1)</li>
+  <li>Invoice data extraction with LlamaParse and OpenAI</li>
+  <li>IT Ops AI SlackBot Workflow - Chat with your knowledge base</li>
+  <li>itemMatching() example</li>
+  <li>JamDB0N Email form</li>
+  <li>Jira Retrospective</li>
+  <li>KB Tool - Confluence Knowledge Base</li>
+  <li>Keep discord clean</li>
+  <li>KNN classifier (lands dataset)</li>
+  <li>Lead Generation System (Template)</li>
+  <li>lead qualification with batchdata</li>
+  <li>Learn Anything from HN - Get Top Resource Recommendations from Hacker News</li>
+  <li>lemlist    GPT-3  Supercharge your sales workflows</li>
+  <li>LINE Assistant with Google Calendar and Gmail Integration</li>
+  <li>LINE Assistant with Google Calendar and Gmail Integration</li>
+  <li>LINE BOT - Google Sheets Record Receipt</li>
+  <li>Line Chatbot Extract Text from Pay Slip with Gemini</li>
+  <li>Line Chatbot Handling AI Responses with Groq and Llama3</li>
+  <li>line message api demo</li>
+  <li>Line Save File to Google Drive and Log File's URL</li>
+  <li>LineChatBot + Google Sheets</li>
+  <li>Linkedin Automation</li>
+  <li>Linkedin Chrome Extensions</li>
+  <li>LinkedIn Leads Scraping &Enrichment(Main)</li>
+  <li>LinkedIn Profile Discovery</li>
+  <li>LinkedIn Profile Finder via Form using Bright Data & GPT-4o-mini</li>
+  <li>LinkedIn Web Scraping with Bright Data MCP Server & Google Gemini</li>
+  <li>List Builder</li>
+  <li>Live link checker</li>
+  <li>LLM Chaining examples</li>
+  <li>Load Prompts from Github Repo and auto populate n8n expressions</li>
+  <li>Log errors and avoid sending too many emails</li>
+  <li>Luma AI -Webhook Response v1- AK</li>
+  <li>Luma AI Dream Machine - Simple v1</li>
+  <li>MAIA - Health Check</li>
+  <li>Mailchimp</li>
+  <li>mails2notion V2</li>
+  <li>Make OpenAI Citation for File Retrieval RAG</li>
+  <li>Make OpenAI Citation for File Retrieval RAG</li>
+  <li>Manipulate PDF with Adobe developer API</li>
+  <li>Matomo Analytics Report</li>
+  <li>MCP CALENDAR</li>
+  <li>MCP Client with Brave and Telegram</li>
+  <li>MCP GMAIL</li>
+  <li>MCP SUPABASE AGENT</li>
+  <li>Meeting booked - to newsletter and CRM</li>
+  <li>Merge</li>
+  <li>Merge multiple runs into one</li>
+  <li>Merge PDFs</li>
+  <li>Microsoft Outlook AI Email Assistant with contact support from Monday and Airtable</li>
+  <li>Microsoft Outlook AI Email Assistant</li>
+  <li>MiniBear Webhook</li>
+  <li>Modular & Customizable AI-Powered Email Routing  Text Classifier for eCommerce</li>
+  <li>MONDAY GET FULL ITEM</li>
+  <li>MongoDB AI Agent - Intelligent Movie Recommendations</li>
+  <li>MongoDB Agent</li>
+  <li>Monitor Competitor Pricing</li>
+  <li>Monitor ProductHunt</li>
+  <li>Monitor security advisories</li>
+  <li>Monitor USDT ERC-20 Wallet Balance with Etherscan and Telegram Notifications</li>
+  <li>Monthly Spotify Track Archiving and Playlist Classification</li>
+  <li>Motion-illustration Workflow Generated with Midjourney and Kling API</li>
+  <li>multi-agent conversation</li>
+  <li>Multi-AI Agent Chatbot for Postgres Supabase DB and QuickCharts + Tool Router</li>
+  <li>n8n Community Topic Tracker by Keyword</li>
+  <li>n8n Error Report to Line</li>
+  <li>N8N Financial Tracker Telegram Invoices to Notion with AI Summaries & Reports</li>
+  <li>n8n Graphic Design Team</li>
+  <li>n8n update</li>
+  <li>n8n workflow deployer</li>
+  <li>n8napi-check-workflow-which-model-is-using</li>
+  <li>NameCheap Dynamic DNS (DDNS)</li>
+  <li>Namesilo Bulk Domain Availability [Template]</li>
+  <li>Narrating over a Video using Multimodal AI</li>
+  <li>NetSuite Rest API workflow</li>
+  <li>NeurochainAI Basic API Integration</li>
+  <li>New Email ➔ Create Google Task</li>
+  <li>New OpenAI Image Generation</li>
+  <li>new ticket alerts to teams</li>
+  <li>News Extraction</li>
+  <li>Noco Kanban Board with AI Prioritization</li>
+  <li>nostr damus ai powered reporting gmail telegram</li>
+  <li>Notify user in Slack of quarantined email and create Jira ticket if opened</li>
+  <li>Notion AI Assistant Generator</li>
+  <li>Notion knowledge base AI assistant</li>
+  <li>Notion to Pinecone Vector Store Integration</li>
+  <li>Notion to Clockify Sync Template</li>
+  <li>notion to linkedin</li>
+  <li>Obsidian Notes Read Aloud using AI  Available as a Podcast Feed</li>
+  <li>OCR receipts from Google Drive</li>
+  <li>OIDC client workflow</li>
+  <li>OlAL address validation</li>
+  <li>Online Marketing Weekly Report</li>
+  <li>On-Page SEO Audit</li>
+  <li>Open Deep Research - AI-Powered Autonomous Research Workflow</li>
+  <li>Open Chanel RAG Chatbot Application Workflow example with Webhook Integration</li>
+  <li>Open Deep Research - AI-Powered Autonomous Research Workflow</li>
+  <li>OpenAI assistant with custom tools</li>
+  <li>OpenAI Assistant workflow  upload file, create an Assistant, chat with it!</li>
+  <li>OpenAI examples  ChatGPT, DALLE-2, Whisper-1 – 5-in-1</li>
+  <li>OpenAI Assistant for Hubspot Chat</li>
+  <li>OpenAI e-mail classification - application</li>
+  <li>OpenAI Personal Shopper with RAG and WooCommerce</li>
+  <li>OpenAI-powered tweet generator</li>
+  <li>OpenSea AI-Powered Insights via Telegram</li>
+  <li>OpenSea Analytics Agent Tool</li>
+  <li>OpenSea Marketplace Agent Tool</li>
+  <li>OpenSea NFT Agent Tool</li>
+  <li>Optimise images uploaded to GDrive</li>
+  <li>Optimize & Update Printify Title and Description Workflow</li>
+  <li>Optimize Prompt</li>
+  <li>Organise Your Local File Directories With AI</li>
+  <li>Orlen</li>
+  <li>Outlook</li>
+  <li>Parents smart bot (2)</li>
+  <li>Parse PDF with LlamaParse and save to Airtable</li>
+  <li>Parse DMARC reports</li>
+  <li>pdf to text</li>
+  <li>PDF2Blog</li>
+  <li>Perform a domain search (single) with Icypeas</li>
+  <li>Perform an email search with Icypeas (single)</li>
+  <li>Perplexity Researcher</li>
+  <li>Perplexity Researcher to HTML Web Page</li>
+  <li>Personal Shopper Chatbot for WooCommerce with RAG using Google Drive and openAI</li>
+  <li>Personal Assistant MCP server</li>
+  <li>Personal Portfolio Resume CV Chatbot</li>
+  <li>Personalized AI Tech Newsletter Using RSS, OpenAI and Gmail</li>
+  <li>PG&E Daily Cost Tracker</li>
+  <li>Phishing analysis  URLScan io and Virustotal </li>
+  <li>piepdrive-test</li>
+  <li>Play with Spotify from Telegram</li>
+  <li>POC - Chatbot Order by Sheet Data</li>
+  <li>Post New YouTube Videos to X</li>
+  <li>Post new Google Calendar events to Telegram</li>
+  <li>Post New YouTube Videos to X</li>
+  <li>Post on X</li>
+  <li>post to mattermost v2</li>
+  <li>Prepare CSV files with GPT-4Prepare CSV files with GPT-4</li>
+  <li>Prepare CSV files with GPT-4</li>
+  <li>Printify Automation -Update Title and Description- AlexK1919</li>
+  <li>Private & Local Ollama Self-Hosted LLM Router</li>
+  <li>Prompt-based Object Detection with Gemini 2.0</li>
+  <li>Property Lead Contact Enrichment from CRM</li>
+  <li>ProspectLens company research</li>
+  <li>Proxmox AI Agent with n8n and Generative AI Integration</li>
+  <li>Publish Image Post to Bluesky</li>
+  <li>Publish Videos &Images- Blotato</li>
+  <li>PUQ Docker NextCloud deploy</li>
+  <li>puq-docker-influxdb-deploy</li>
+  <li>puq-docker-minio-deploy</li>
+  <li>puq-docker-n8n-deploy</li>
+  <li>Push Multiple Files to Github Repo via Github REST API</li>
+  <li>Qdrant Vector Database Embedding Pipeline</li>
+  <li>Qualify new leads in Google Sheets via OpenAI s GPT-4</li>
+  <li>Qualify replies from Pipedrive persons with AI</li>
+  <li>Qualify new leads in Google Sheets via OpenAI's GPT-4</li>
+  <li>Qualifying Appointment Requests with AI & n8n Forms</li>
+  <li>Query n8n Credentials with AI SQL Agent</li>
+  <li>Query Perplexity AI from your n8n workflows</li>
+  <li>Query List of Sign-in IPs</li>
+  <li>RAG Chatbot for Company Documents using Google Drive and Gemini</li>
+  <li>RAG & GenAI App With WordPress Content</li>
+  <li>RAG AI Agent with Milvus and Cohere</li>
+  <li>RAG Context-Aware Chunking   Google Drive to Pinecone via OpenRouter & Gemini</li>
+  <li>RAG on living data</li>
+  <li>RAG Workflow For Company Documents stored in Google Drive</li>
+  <li>RAG Workflow For Stock Earnings Report Analysis</li>
+  <li>React to PDFMonkey Callback</li>
+  <li>Read RSS feed from two different sources</li>
+  <li>Read sitemap and filter URLs</li>
+  <li>Real Estate Market Scanning</li>
+  <li>Realtime Notion Todoist 2-way Sync Template</li>
+  <li>Receive and analyze emails with rules in Sublime Security</li>
+  <li>Recipe Recommendations with Qdrant and Mistral</li>
+  <li>Reconcile Rent Payments with Local Excel Spreadsheet and OpenAI</li>
+  <li>Reddit AI digest</li>
+  <li>Refresh Pipedrive tokens</li>
+  <li>Remote IOT Sensor monitoring via MQTT and InfluxDB</li>
+  <li>Remove Personally Identifiable Information (PII) from CSV Files with OpenAI</li>
+  <li>Remove Advanced Background from Google Drive Images</li>
+  <li>Reschedule overdue Asana tasks and clean up completed tasks</li>
+  <li>Reservation Medcin</li>
+  <li>Respond to WhatsApp Messages with AI Like a Pro!</li>
+  <li>Restore workflows from GitHub to n8n</li>
+  <li>Restore your workflows from GitHub</li>
+  <li>Resume Screening & Behavioral Interviews with Gemini,Elevenlabs,& Notion ATS copy</li>
+  <li>Retry Execution Hourly</li>
+  <li>Retry on fail except for known error Template</li>
+  <li>RSS to Telegram</li>
+  <li>rss-telegram</li>
+  <li>Save new Files received on Telegram to Google Drive</li>
+  <li>Save New Sales Opportunities</li>
+  <li>Save Telegram reply to journal spreadsheet</li>
+  <li>Scans von PDF zu Nextcloud</li>
+  <li>Schedule workflow activity time</li>
+  <li>Scrape and summarize posts of a news site without RSS feed using AI and save them to a NocoDB</li>
+  <li>Scrape and summarize webpages with AI</li>
+  <li>Scrape Trustpilot Reviews with DeepSeek, Analyze Sentiment with OpenAI</li>
+  <li>Scrape Books from URL with Dumpling AI, Clean HTML, Save to Sheets, Email as CSV</li>
+  <li>Scrape Latest 20 TechCrunch Articles</li>
+  <li>Scrape Today's Github Trend 13 Top Repositories</li>
+  <li>Scrape Trustpilot Reviews to Google Sheets</li>
+  <li>Scrape Trustpilot Reviews with DeepSeek, Analyze Sentiment with OpenAI</li>
+  <li>Scrape Web Data with Bright Data, Google Gemini and MCP Automated AI Agent</li>
+  <li>Screen Applicants With AI, notify HR and save them in a Google Sheet</li>
+  <li>Search & Summarize Web Data with Perplexity,Gemini AI& Bright Data to Webhooks</li>
+  <li>Search LinkedIn companies, Score with AI and add them to Google Sheet CRM</li>
+  <li>Search LinkedIn companies and add them to Airtable CRM</li>
+  <li>Search news using Perplexity AI and post to X (Twitter)</li>
+  <li>SearchApi AI Agent</li>
+  <li>SearchApi Youtube Video Summary</li>
+  <li>Selenium Ultimate Scraper Workflow</li>
+  <li>Sell a Used Car</li>
+  <li>Send a ChatGPT email reply and save responses to Google Sheets</li>
+  <li>Send a random recipe once a day to Telegram</li>
+  <li>Send daily translated Calvin and Hobbes Comics to Discord</li>
+  <li>Send Google analytics data to A.I. to analyze then save results in Baserow</li>
+  <li>Send Google analytics data to A.I. to analyze then save results in BaserowSend Google analytics data to A.I. to analyze then save results in Baserow</li>
+  <li>Send specific PDF attachments from Gmail to Google Drive using OpenAI</li>
+  <li>Send a message on Twake</li>
+  <li>Send and check TTS (Text-to-speech) voice calls end email verification</li>
+  <li>Send Daily Birthday Reminders from Google Contacts to Slack</li>
+  <li>Send Discord message from Webflow form submission</li>
+  <li>Send Emails from Obsidian</li>
+  <li>send file to kindle through telegram bot</li>
+  <li>Send Message In Larksuite</li>
+  <li>Send Slack message from Webflow form submission</li>
+  <li>Send SMS to numbers stored in Airtable with Twilio</li>
+  <li>Send Telegram Alerts for New WooCommerce Orders</li>
+  <li>Send TTS (Text-to-speech) voice calls</li>
+  <li>Send Typeforms leads via Whatsapp (Twilio)</li>
+  <li>Sentiment Analysis Tracking on Support Issues with Linear and Slack (1)</li>
+  <li>Sentiment Analysis Tracking on Support Issues with Linear and Slack</li>
+  <li>SEO Blog Generator with GPT-4o, Perplexity, and Telegram Integration</li>
+  <li>SERPBear analytics template</li>
+  <li>Set up medoids (2 types)for anomaly detection(crops dataset)</li>
+  <li>Share YouTube Videos with AI Summaries on Discord</li>
+  <li>SHEETS RAG</li>
+  <li>Shopify + Mautic</li>
+  <li>Shopify order UTM to Baserow</li>
+  <li>Shopify Orders to D365 Business Central Sales Orders   Sales Invoices</li>
+  <li>Shopify to Google Sheets Product Sync Automation</li>
+  <li>SIGNL4 Alert</li>
+  <li>Simple Expense Tracker with n8n Chat, AI Agent and Google Sheets</li>
+  <li>Simple Lead Tracker Automation v4</li>
+  <li>Simple LinkedIn profile collector</li>
+  <li>Simple OpenAI Image Generator</li>
+  <li>Siri AI Agent  Apple Shortcuts powered voice template</li>
+  <li>Slack slash commands AI Chat Bot</li>
+  <li>Slack AI Chatbot with RAG for company staff</li>
+  <li>Slack Webhook - Verify Signature</li>
+  <li>Slack-GitHub User Info</li>
+  <li>Social Media Analysis and Automated Email Generation</li>
+  <li>Social Media AI Agent - Telegram</li>
+  <li>Social Media Publisher</li>
+  <li>Speech Support Workflow</li>
+  <li>Speed Up Social Media Banners With BannerBear.com</li>
+  <li>Spot Workplace Discrimination Patterns with AI</li>
+  <li>Spot Workplace Discrimination Patterns with AI</li>
+  <li>Spotify Sync Liked Songs to Playlist</li>
+  <li>spy tool</li>
+  <li>SQL agent with memory</li>
+  <li>SSL Expiry Alert</li>
+  <li>StatsInstagram</li>
+  <li>Store Notion s Pages as Vector Documents into Supabase with OpenAI</li>
+  <li>Store Notion's Pages as Vector Documents into Supabase with OpenAI</li>
+  <li>Streamline data from an n8n form into Google Sheet and Airtable</li>
+  <li>Streamline Your Zoom Meetings with Secure, Automated Stripe Payments</li>
+  <li>Stripe Payment Order Sync –Auto Retrieve Customer& Product Purchased</li>
+  <li>Structured Bulk Data Extract with Bright Data Web Scraper</li>
+  <li>Structured Data Extract,Data Mining with Bright Data& Google Gemini</li>
+  <li>Subworkflow Dependency Graph & Auto-Tagging</li>
+  <li>Suggest meeting slots using AI</li>
+  <li>Summarize Google Sheets form feedback via OpenAI s GPT-4</li>
+  <li>Summarize SERPBear data with AI (via Openrouter) and save it to Baserow</li>
+  <li>Summarize the New Documents from Google Drive and Save Summary in Google Sheet</li>
+  <li>Summarize Umami data with AI (via Openrouter) and save it to Baserow</li>
+  <li>Summarize your emails with A.I. (via Openrouter) and send to Line messenger (1)</li>
+  <li>Summarize your emails with A.I. (via Openrouter) and send to Line messenger</li>
+  <li>Summarize YouTube Videos from Transcript</li>
+  <li>Summarize emails with A.I. then send to messenger</li>
+  <li>Summarize Glassdoor Company Info with Google Gemini and Bright Data Web Scraper</li>
+  <li>Summarize Google Drive Documents with Mistral AI and Send via Gmail</li>
+  <li>Summarize Google Sheets form feedback via OpenAI's GPT-4</li>
+  <li>Summarize YouTube Videos & Chat About Content with GPT-4o-mini via Telegram</li>
+  <li>Supabase Insertion & Upsertion & Retrieval</li>
+  <li>Supabase Setup Postgres</li>
+  <li>Survey Insights with Qdrant, Python and Information Extractor</li>
+  <li>Suspicious login detection</li>
+  <li>Sync Jira issues with subsequent comments to Notion database</li>
+  <li>Sync New Files From Google Drive with Airtable</li>
+  <li>Sync New Shopify Customers to Odoo Contacts</li>
+  <li>Sync New Shopify Products to Odoo Product</li>
+  <li>Sync Todoist tasks to Notion</li>
+  <li>Sync Youtube Video Urls with Google Sheets</li>
+  <li>Synchronize your Google Sheets with Postgres</li>
+  <li>Syncro to Clockify</li>
+  <li>Talk to your SQLite database with a LangChain AI Agent</li>
+  <li>Task Form Widget Application Workflow example with Webhook Integration</li>
+  <li>Tavily Search &Extract- Template</li>
+  <li>Tech Radar</li>
+  <li>Telegram AI bot assistant  ready-made template for voice & text messages</li>
+  <li>Telegram AI bot with LangChain nodes</li>
+  <li>Telegram AI Bot  NeurochainAI Text & Image - NeurochainAI Basic API Integration</li>
+  <li>Telegram AI Chatbot</li>
+  <li>Telegram Bot with Supabase memory and OpenAI assistant integration</li>
+  <li>Telegram chat with PDF</li>
+  <li>Telegram to Spotify with OpenAI</li>
+  <li>Telegram AI Langchain bot</li>
+  <li>Telegram AI multi-format chatbot</li>
+  <li>Telegram channel to Readeck & Hoarder</li>
+  <li>Telegram Chat with Buffering</li>
+  <li>Telegram ChatBot with multiple sessions</li>
+  <li>Telegram echo-bot</li>
+  <li>Telegram Messaging Agent for Text Audio Images</li>
+  <li>Telegram RAG pdf</li>
+  <li>Telegram Tron Wallet Blacklist Checker</li>
+  <li>Telegram Weather Workflow</li>
+  <li>Telegram-bot AI Da Nang</li>
+  <li>TEMPLATE - Multi Methods API Endpoint</li>
+  <li>Template - SSL Expiry Alert System</li>
+  <li>template-demo-chatgpt-image-1-with-drive-and-sheet copy</li>
+  <li>TEMPLATES</li>
+  <li>Test Webhooks in n8n Without Changing WEBHOOK URL (PostBin & BambooHR Example)</li>
+  <li>Testing Mulitple Local LLM with LM Studio</li>
+  <li>Text automations using Apple Shortcuts (1)</li>
+  <li>Text automations using Apple Shortcuts</li>
+  <li>TfwQRZkTBtykx1rM Enrich Company Data from Google Sheet with OpenAI Agent and Scraper Tool</li>
+  <li>The Easiest Way to Send SMS Worldwide</li>
+  <li>The Ultimate Guide to Optimize WordPress Blog Posts with AI</li>
+  <li>TheHive</li>
+  <li>Three-View Orthographic Projection to Dynamic Video Conversion</li>
+  <li>Tiktok Downloader</li>
+  <li>Todoist Weekly Review Template</li>
+  <li>TopSourcer - Finds LinkedIn Profiles using natural language</li>
+  <li>Track Working Time and Pauses</li>
+  <li>Training Feedback Automation</li>
+  <li>Transcribe Audio Files, Summarize with GPT-4, and Store in Notion</li>
+  <li>Transcribing Bank Statements To Markdown Using Gemini Vision AI</li>
+  <li>Transform Image to Lego Style Using Line and Dall-E</li>
+  <li>Translate audio using AI</li>
+  <li>Translate Telegram audio messages with AI (55 supported languages)</li>
+  <li>Translate</li>
+  <li>Translate questions about e-mails into SQL queries and run them</li>
+  <li>Translate Telegram audio messages with AI (55 supported languages) v1</li>
+  <li>Travel AssistantAgent</li>
+  <li>Travel Planning Agent with Couchbase Vector Search, Gemini 2.0 Flash and OpenAI</li>
+  <li>Turn Emails into AI-Enhanced Tasks in Notion (Multi-User Support) with Gmail, Airtable and Softr</li>
+  <li>Turn YouTube Videos into Summaries, Transcripts, and Visual Insights</li>
+  <li>Twitter Virtual AI Influencer</li>
+  <li>Twitter notifications</li>
+  <li>TwitterWorkflow</li>
+  <li>Ultimate Scraper Workflow for n8n</li>
+  <li>Ultimate AI-Powered Chatbot for YouTube Summarization & Analysis</li>
+  <li>Ultimate Personal Assistant</li>
+  <li>Umami analytics template</li>
+  <li>Unique QRcode coupon assignment and validation for Lead Generation system</li>
+  <li>Update Twitter banner using HTTP request</li>
+  <li>Update all Zammad Roles to default values</li>
+  <li>Update Roles by Excel</li>
+  <li>Upload to Instagram and Tiktok from Google Drive</li>
+  <li>Upload video to drive via google script</li>
+  <li>upload-post images</li>
+  <li>Upsert huge documents in a vector store with Supabase and Notion</li>
+  <li>URL Pinger</li>
+  <li>Use AI to organize your Todoist Inbox</li>
+  <li>Use OpenRouter in n8n versions  1.78</li>
+  <li>Use any LLM-Model via OpenRouter</li>
+  <li>Use OpenAI to Transcribe Audio +Summarize with AI+ Save to Google Drive</li>
+  <li>Use XMLRPC via HttpRequest-node to post on Wordpress.com</li>
+  <li>Using External Workflows as Tools in n8n</li>
+  <li>UTM Link Creator & QR Code Generator with Scheduled Google Analytics Reports</li>
+  <li>UTM Link Creator & QR Code Generator with Scheduled Google Analytics Reports</li>
+  <li>v1 helper - Find params with affected expressions</li>
+  <li>Validate Seatable Webhooks with HMAC SHA256 Authentication</li>
+  <li>vAssistant for Hubspot Chat using OpenAi and Airtable</li>
+  <li>Vector Database as a Big Data Analysis Tool for AI Agents [1 3 anomaly][1 2 KNN]</li>
+  <li>Vector Database as a Big Data Analysis Tool for AI Agents [2 2 KNN] (1)</li>
+  <li>Vector Database as a Big Data Analysis Tool for AI Agents [2 2 KNN]</li>
+  <li>Vector Database as a Big Data Analysis Tool for AI Agents [2 3 - anomaly]</li>
+  <li>Vector Database as a Big Data Analysis Tool for AI Agents [3 3 - anomaly]</li>
+  <li>Vector DB Loader from Google Drive</li>
+  <li>Venafi Cloud Slack Cert Bot</li>
+  <li>Very simple Human in the loop system email with AI e IMAP</li>
+  <li>Vision-Based AI Agent Scraper - with Google Sheets, ScrapingBee, and Gemini</li>
+  <li>Visual Regression Testing with Apify and AI Vision Model</li>
+  <li>Visualize your SQL Agent queries with OpenAI and Quickchart.io</li>
+  <li>Voice RAG Chatbot with ElevenLabs and OpenAI</li>
+  <li>Weather via Slack</li>
+  <li>Web Server Monitor.</li>
+  <li>Website check</li>
+  <li>Weekly Shodan Query   Report Accidents  no function node </li>
+  <li>WhatsApp business bot</li>
+  <li>WhatsApp starter workflow</li>
+  <li>Whisper Transkription copy</li>
+  <li>WooCommerce AI Chatbot Workflow for Post-Sales Support</li>
+  <li>WordPress - AI Chatbot to enhance user experience - with Supabase and OpenAI</li>
+  <li>WordPress Contact Form (CF7) Responses and Classification</li>
+  <li>Wordpress Form to Mautic</li>
+  <li>Wordpress-to-csv</li>
+  <li>Results to Markdown Notes in Your Obsidian Vault, via Google Drive</li>
+  <li>Workflow stats</li>
+  <li>workflow x2VUvhqV1YTJCIN0</li>
+  <li>Write a WordPress post with AI (starting from a few keywords)</li>
+  <li>XML Conversion</li>
+  <li>YogiAI</li>
+  <li>Your First Wordpress Content Creator - Quick Start</li>
+  <li>YOUR WORKFLOW ID Automated Content Generation &Publishing- Wordpress</li>
+  <li>Youtube Automation</li>
+  <li>youtube chapter generator</li>
+  <li>YouTube Comment Sentiment Analyzer</li>
+  <li>Youtube Discord Bot</li>
+  <li>Youtube Searcher</li>
+  <li>YouTube to Airtable Anonym</li>
+  <li>YouTube to X Post- AlexK1919</li>
+  <li>YouTube Video Analyzer with AI</li>
+  <li>YouTube Video Comment Analysis Agent</li>
+  <li>YouTube Video Transcriber</li>
+  <li>Youtube Video Transcript Extraction</li>
+  <li>YouTube Videos with AI Summaries on Discord</li>
+  <li>YT AI News Playlist Creator AI News Form Updater</li>
+  <li>YT New Video Upload</li>
+  <li>Zammad Open Tickets</li>
+  <li>Zip multiple files</li>
+  <li>Zoom AI Meeting Assistant creates mail summary, ClickUp tasks and follow-up call</li>
+  <li>Zoom AI Meeting Assistant</li>
+  <li>🎨 Interactive Image Editor with FLUX.1 Fill Tool for Inpainting</li>
+  <li>🐋DeepSeek V3 Chat & R1 Reasoning Quick Start</li>
+  <li>🐋🤖 DeepSeek AI Agent + Telegram + LONG TERM Memory 🧠</li>
+  <li>📈 Receive Daily Market News from FT.com to your Microsoft outlook inbox</li>
+  <li>📚 Auto-generate documentation for n8n workflows with GPT and Docsify</li>
+  <li>🔍 Perplexity Research to HTML  AI-Powered Content Creation</li>
+  <li>🔐🦙🤖 Private & Local Ollama Self-Hosted AI Assistant</li>
+  <li>🔥📈🤖 AI Agent for n8n Creators Leaderboard - Find Popular Workflows</li>
+  <li>🗨️Ollama Chat</li>
+  <li>🚀 Local Multi-LLM Testing & Performance Tracker</li>
+  <li>🤖 Telegram Messaging Agent for Text Audio Images</li>
+  <li>🤖🧑 💻 AI Agent for Top n8n Creators Leaderboard Reporting</li>
+  <li>🤖🧠 AI Agent Chatbot + LONG TERM Memory + Note Storage + Telegram</li>
+  <li> AI Agent  for Top n8n Creators Leaderboard Reporting</li>
+  <li>✨ Vision-Based AI Agent Scraper - with Google Sheets, ScrapingBee, and Gemini</li>
+  <li>⚡AI-Powered YouTube Video Summarization & Analysis</li>
+  <li>⚡AI-Powered YouTube Playlist & Video Summarization and Analysis v2</li>
+  <li>.post to wallabag</li>
+  <li>Syncro Status Update Clockify</li>
+</ul>
+
+---
+
+> _Note: This is a living list of workflows for educational and inspirational use. Each title reflects a unique automation scenario or template._
+
+---
+
+🔗 [n8n Documentation](https://docs.n8n.io)  
+🔗 [n8n Community](https://community.n8n.io)
